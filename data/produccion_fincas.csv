@@ -1,0 +1,1261 @@
+fecha,finca,zona,producto,cantidad,unidad,costo_estimado,responsable,observacion
+2026-04-01,El Progreso,Norte,leche,45.44,litros,22561.63,Luis,baja produccion
+2026-04-02,El Porvenir,Sur,leche,19.1,litros,16819.9,Ana,sin novedad
+2026-04-03,El Porvenir,Occidente,maiz,160.86,kilos,203128.43,Maria,transporte limitado
+2026-04-04,La Rivera,Norte,maiz,118.76,kilos,54311.42,Valentina,transporte limitado
+2026-04-05,Buenos Aires,Norte,yuca,181.07,kilos,165324.06,Valentina,baja produccion
+2026-04-06,La Rivera,Oriente,yuca,146.6,kilos,58363.75,Carlos,normal
+2026-04-07,Monte Verde,Oriente,leche,32.06,litros,39299.66,Maria,transporte limitado
+2026-04-08,Monte Verde,Sur,yuca,165.27,kilos,70235.23,Maria,lluvia
+2026-04-09,La Union,Oriente,huevo,77.79,unidades,83435.22,Carlos,normal
+2026-04-10,Monte Verde,Sur,leche,47.79,litros,20047.81,Andres,sin novedad
+2026-04-11,La Union,Sur,huevo,163.86,unidades,81932.49,Maria,sin novedad
+2026-04-12,La Rivera,Occidente,huevo,165.7,unidades,96153.52,Maria,normal
+2026-04-13,La Esperanza,Occidente,leche,23.66,litros,25186.19,Luis,alta demanda
+2026-04-14,La Union,Oriente,yuca,205.66,kilos,74460.25,Luis,sin novedad
+2026-04-15,Buenos Aires,Sur,leche,28.86,litros,10199.34,Sofia,baja produccion
+2026-04-16,El Progreso,Sur,yuca,186.25,kilos,104087.05,Andres,baja produccion
+2026-04-17,La Esperanza,Sur,yuca,133.29,kilos,97452.29,Sofia,normal
+2026-04-18,Monte Verde,Sur,leche,21.17,litros,8947.99,Maria,sin novedad
+2026-04-19,La Union,Sur,maiz,127.71,kilos,101439.39,Carlos,sin novedad
+2026-04-20,La Rivera,Norte,huevo,179.32,unidades,145250.11,Mateo,lluvia
+2026-04-21,Monte Verde,Norte,leche,30.51,litros,18050.34,Carlos,normal
+2026-04-22,La Esperanza,Oriente,maiz,0,kilos,0.0,Carlos,sin novedad
+2026-04-23,La Union,Sur,maiz,177.06,kilos,226017.48,Mateo,alta demanda
+2026-04-24,El Porvenir,Occidente,maiz,96.98,kilos,70020.77,Valentina,sin novedad
+2026-04-25,La Esperanza,Sur,leche,20.24,litros,24098.19,Luis,lluvia
+2026-04-26,Monte Verde,Occidente,huevo,59.63,unidades,49836.34,Luis,baja produccion
+2026-04-27,El Progreso,Sur,leche,42.13,litros,15398.34,Luis,lluvia
+2026-04-28,El Porvenir,Occidente,huevo,107.39,unidades,139345.51,Maria,normal
+2026-04-29,El Porvenir,Sur,yuca,198.98,kilos,129239.84,Mateo,lluvia
+2026-04-30,La Rivera,Norte,maiz,254.37,kilos,233843.6,Andres,normal
+2026-05-01,La Union,Norte,maiz,90.24,kilos,112250.41,Luis,sin novedad
+2026-05-02,Monte Verde,Norte,huevo,56.78,unidades,34552.11,Ana,alta demanda
+2026-05-03,Buenos Aires,Sur,yuca,90.64,kilos,54440.22,Valentina,sin novedad
+2026-05-04,La Rivera,Norte,huevo,84.26,unidades,35909.11,Mateo,normal
+2026-05-05,Monte Verde,Oriente,yuca,79.87,kilos,33723.58,Carlos,transporte limitado
+2026-05-06,Santa Clara,Oriente,huevo,156.72,unidades,155507.25,Ana,sin novedad
+2026-05-07,El Progreso,Oriente,maiz,127.6,kilos,144128.99,Maria,transporte limitado
+2026-05-08,Monte Verde,Oriente,yuca,90.54,kilos,56785.16,Mateo,normal
+2026-05-09,El Progreso,Oriente,huevo,156.11,unidades,109313.59,Maria,lluvia
+2026-05-10,La Union,Norte,huevo,118.53,unidades,159103.23,Maria,transporte limitado
+2026-05-11,Santa Clara,Oriente,huevo,57.84,unidades,74840.94,Ana,lluvia
+2026-05-12,Monte Verde,Sur,leche,31.09,litros,39436.06,Maria,lluvia
+2026-05-13,Santa Clara,Sur,huevo,43.47,unidades,30376.61,Valentina,transporte limitado
+2026-05-14,Santa Clara,Occidente,leche,32.15,litros,27141.82,Carlos,transporte limitado
+2026-05-15,La Rivera,Norte,maiz,120.13,kilos,92306.6,Sofia,transporte limitado
+2026-05-16,Buenos Aires,Norte,huevo,135.13,unidades,94281.2,Ana,transporte limitado
+2026-05-17,Santa Clara,Occidente,yuca,65.74,kilos,46870.74,Andres,baja produccion
+2026-05-18,El Progreso,Norte,huevo,165.93,unidades,65808.81,Valentina,baja produccion
+2026-05-19,Monte Verde,Norte,yuca,124.69,kilos,164192.96,Andres,sin novedad
+2026-05-20,La Rivera,Sur,yuca,160.03,kilos,173163.48,Maria,alta demanda
+2026-05-21,El Porvenir,Oriente,maiz,190.79,kilos,176544.49,Ana,transporte limitado
+2026-05-22,Monte Verde,Occidente,huevo,150.01,unidades,103261.14,Mateo,sin novedad
+2026-05-23,Monte Verde,Oriente,huevo,151.12,unidades,169671.42,Luis,baja produccion
+2026-05-24,Buenos Aires,Sur,leche,48.28,litros,51004.7,Carlos,lluvia
+2026-05-25,La Esperanza,Occidente,leche,27.06,litros,33614.6,Luis,alta demanda
+2026-05-26,Monte Verde,Norte,huevo,109.21,unidades,113454.0,Ana,alta demanda
+2026-05-27,Monte Verde,Norte,maiz,224.74,kilos,188282.09,Carlos,alta demanda
+2026-05-28,Santa Clara,Occidente,huevo,133.46,unidades,130153.52,Mateo,baja produccion
+2026-05-29,La Union,Oriente,maiz,213.86,kilos,133053.24,Carlos,baja produccion
+2026-05-30,La Union,Oriente,maiz,129.43,kilos,84131.38,Sofia,transporte limitado
+2026-05-31,El Progreso,Norte,maiz,107.15,kilos,54694.24,Carlos,alta demanda
+2026-06-01,El Porvenir,Occidente,yuca,141.39,kilos,80193.03,Valentina,baja produccion
+2026-06-02,La Esperanza,Occidente,huevo,106.78,unidades,70853.15,Valentina,baja produccion
+2026-06-03,Monte Verde,Occidente,huevo,70.72,unidades,26907.27,Andres,sin novedad
+2026-06-04,Santa Clara,Norte,huevo,168.74,unidades,153693.42,Valentina,normal
+2026-06-05,El Porvenir,Sur,maiz,236.03,kilos,147085.43,Andres,alta demanda
+2026-06-06,Buenos Aires,Oriente,yuca,174.18,kilos,198497.32,Valentina,normal
+2026-06-07,La Union,Norte,leche,45.71,litros,61686.36,Carlos,sin novedad
+2026-06-08,La Esperanza,Sur,leche,53.14,litros,19736.14,Maria,lluvia
+2026-06-09,La Union,Sur,leche,38.87,litros,42152.11,Andres,baja produccion
+2026-04-01,El Progreso,Occidente,maiz,253.65,kilos,95616.5,Sofia,alta demanda
+2026-04-02,Monte Verde,Norte,leche,39.91,litros,24145.22,Sofia,baja produccion
+2026-04-03,La Esperanza,Norte,yuca,139.91,kilos,59098.62,Andres,alta demanda
+2026-04-04,La Union,Sur,leche,34.04,litros,43780.67,Mateo,alta demanda
+2026-04-05,Santa Clara,Occidente,yuca,152.39,kilos,177286.49,Mateo,sin novedad
+2026-04-06,La Rivera,Sur,yuca,187.76,kilos,82801.42,Mateo,alta demanda
+2026-04-07,El Porvenir,Oriente,yuca,64.3,kilos,34781.92,Carlos,transporte limitado
+2026-04-08,Buenos Aires,Sur,yuca,192.05,kilos,122927.75,Ana,normal
+2026-04-09,Monte Verde,Occidente,huevo,108.4,unidades,116545.16,Mateo,normal
+2026-04-10,El Progreso,Occidente,yuca,93.24,kilos,62612.18,Andres,baja produccion
+2026-04-11,Buenos Aires,Oriente,huevo,179.53,unidades,129154.07,Mateo,transporte limitado
+2026-04-12,La Rivera,Sur,maiz,101.72,kilos,48371.16,Maria,lluvia
+2026-04-13,La Union,Norte,yuca,168.69,kilos,151967.54,Sofia,lluvia
+2026-04-14,La Rivera,Oriente,maiz,144.96,kilos,158502.08,Maria,normal
+2026-04-15,La Esperanza,Norte,yuca,164.61,kilos,207718.77,Mateo,normal
+2026-04-16,La Rivera,Occidente,huevo,107.02,unidades,145950.94,Sofia,normal
+2026-04-17,El Progreso,Sur,huevo,108.84,unidades,116543.0,Maria,baja produccion
+2026-04-18,La Rivera,Occidente,leche,54.77,litros,63131.5,Carlos,alta demanda
+2026-04-19,La Union,Norte,yuca,189.02,kilos,126766.12,Ana,lluvia
+2026-04-20,Monte Verde,Sur,yuca,159.06,kilos,84700.12,Luis,normal
+2026-04-21,El Porvenir,Oriente,huevo,136.51,unidades,52456.95,Sofia,sin novedad
+2026-04-22,La Union,Occidente,leche,43.43,litros,51126.64,Carlos,normal
+2026-04-23,Monte Verde,Oriente,maiz,243.51,kilos,103486.96,Maria,baja produccion
+2026-04-24,La Rivera,Occidente,huevo,57.41,unidades,62273.8,Sofia,alta demanda
+2026-04-25,El Progreso,Norte,leche,50.91,litros,50090.31,Ana,lluvia
+2026-04-26,La Esperanza,Oriente,yuca,146.44,kilos,78191.68,Mateo,lluvia
+2026-04-27,El Porvenir,Norte,huevo,175.67,unidades,136805.74,Andres,lluvia
+2026-04-28,Buenos Aires,Occidente,huevo,137.11,unidades,184063.76,Ana,normal
+2026-04-29,Buenos Aires,Occidente,yuca,108.49,kilos,84012.9,Ana,alta demanda
+2026-04-30,La Esperanza,Norte,maiz,173.32,kilos,151380.77,Mateo,lluvia
+2026-05-01,La Rivera,Norte,maiz,246.98,kilos,267519.48,Luis,sin novedad
+2026-05-02,Monte Verde,Norte,maiz,0,kilos,0.0,Carlos,alta demanda
+2026-05-03,El Progreso,Occidente,maiz,169.71,kilos,150077.2,Sofia,alta demanda
+2026-05-04,La Union,Norte,maiz,162.22,kilos,89243.86,Maria,transporte limitado
+2026-05-05,El Porvenir,Oriente,yuca,200.14,kilos,242485.01,Sofia,baja produccion
+2026-05-06,La Union,Occidente,maiz,160.38,kilos,112115.56,Valentina,transporte limitado
+2026-05-07,Monte Verde,Oriente,maiz,182.92,kilos,212977.73,Ana,sin novedad
+2026-05-08,La Union,Occidente,huevo,94.05,unidades,113968.37,Maria,normal
+2026-05-09,Santa Clara,Norte,yuca,190.46,kilos,154714.76,Mateo,sin novedad
+2026-05-10,Santa Clara,Oriente,huevo,161.93,unidades,69398.29,Sofia,baja produccion
+2026-05-11,El Porvenir,Oriente,leche,49.52,litros,62014.36,Valentina,sin novedad
+2026-05-12,La Union,Sur,leche,40.85,litros,43653.11,Sofia,sin novedad
+2026-05-13,El Progreso,Occidente,huevo,176.97,unidades,192735.44,Luis,lluvia
+2026-05-14,La Rivera,Occidente,leche,19.7,litros,12963.31,Andres,lluvia
+2026-05-15,Monte Verde,Occidente,huevo,119.23,unidades,63011.01,Luis,baja produccion
+2026-05-16,Monte Verde,Occidente,huevo,167.8,unidades,139980.0,Sofia,transporte limitado
+2026-05-17,La Esperanza,Oriente,huevo,166.17,unidades,85722.85,Mateo,baja produccion
+2026-05-18,La Rivera,Occidente,huevo,136.64,unidades,91170.0,Valentina,normal
+2026-05-19,Monte Verde,Norte,huevo,120.07,unidades,167176.66,Sofia,sin novedad
+2026-05-20,El Porvenir,Occidente,yuca,61.21,kilos,71445.98,Ana,transporte limitado
+2026-05-21,Monte Verde,Norte,yuca,92.85,kilos,56931.73,Maria,sin novedad
+2026-05-22,La Esperanza,Norte,yuca,0,kilos,0.0,Maria,transporte limitado
+2026-05-23,Buenos Aires,Oriente,huevo,64.59,unidades,59188.86,Andres,lluvia
+2026-05-24,La Rivera,Occidente,huevo,175.43,unidades,221728.93,Luis,normal
+2026-05-25,Santa Clara,Norte,maiz,234.83,kilos,323816.33,Andres,alta demanda
+2026-05-26,La Esperanza,Occidente,yuca,140.49,kilos,148423.44,Sofia,sin novedad
+2026-05-27,Buenos Aires,Sur,leche,42.97,litros,42992.53,Andres,sin novedad
+2026-05-28,El Progreso,Norte,huevo,167.31,unidades,130286.08,Maria,normal
+2026-05-29,La Rivera,Occidente,huevo,56.26,unidades,51445.49,Valentina,transporte limitado
+2026-05-30,El Porvenir,Oriente,maiz,239.37,kilos,293318.67,Valentina,normal
+2026-05-31,Buenos Aires,Oriente,maiz,159.81,kilos,199478.47,Luis,baja produccion
+2026-06-01,Buenos Aires,Norte,leche,32.73,litros,15653.7,Mateo,sin novedad
+2026-06-02,Monte Verde,Norte,leche,19.87,litros,27584.76,Carlos,baja produccion
+2026-06-03,Monte Verde,Oriente,maiz,226.35,kilos,263264.74,Ana,lluvia
+2026-06-04,Santa Clara,Norte,yuca,179.78,kilos,226481.5,Maria,transporte limitado
+2026-06-05,Monte Verde,Norte,yuca,62.37,kilos,30130.73,Valentina,sin novedad
+2026-06-06,El Progreso,Sur,huevo,102.76,unidades,100021.38,Mateo,baja produccion
+2026-06-07,La Esperanza,Occidente,yuca,128.71,kilos,53268.78,Mateo,alta demanda
+2026-06-08,El Progreso,Sur,huevo,139.74,unidades,180855.71,Andres,normal
+2026-06-09,Santa Clara,Oriente,yuca,153.65,kilos,168670.89,Valentina,alta demanda
+2026-04-01,El Porvenir,Occidente,leche,47.34,litros,49112.82,Carlos,alta demanda
+2026-04-02,Monte Verde,Oriente,huevo,87.45,unidades,68804.71,Luis,alta demanda
+2026-04-03,Buenos Aires,Norte,yuca,116.15,kilos,153217.45,Luis,normal
+2026-04-04,El Progreso,Oriente,huevo,53.52,unidades,64350.19,Ana,sin novedad
+2026-04-05,El Progreso,Oriente,huevo,89.5,unidades,101832.96,Ana,baja produccion
+2026-04-06,La Rivera,Sur,yuca,75.54,kilos,38711.73,Mateo,normal
+2026-04-07,Buenos Aires,Norte,yuca,77.23,kilos,45370.08,Valentina,baja produccion
+2026-04-08,La Rivera,Oriente,leche,24.68,litros,16645.03,Andres,normal
+2026-04-09,Santa Clara,Norte,maiz,181.94,kilos,90782.31,Ana,sin novedad
+2026-04-10,Monte Verde,Norte,huevo,98.78,unidades,72954.54,Andres,normal
+2026-04-11,Santa Clara,Occidente,maiz,215.8,kilos,94015.56,Mateo,alta demanda
+2026-04-12,La Union,Norte,huevo,78.24,unidades,36734.34,Valentina,transporte limitado
+2026-04-13,La Union,Sur,yuca,66.81,kilos,65426.45,Ana,transporte limitado
+2026-04-14,Monte Verde,Occidente,maiz,217.55,kilos,103550.22,Mateo,lluvia
+2026-04-15,Santa Clara,Norte,huevo,114.56,unidades,107303.74,Andres,alta demanda
+2026-04-16,La Esperanza,Occidente,huevo,42.62,unidades,53497.29,Valentina,sin novedad
+2026-04-17,El Porvenir,Oriente,yuca,0,kilos,0.0,Mateo,normal
+2026-04-18,El Porvenir,Oriente,leche,27.0,litros,24304.34,Valentina,sin novedad
+2026-04-19,Buenos Aires,Sur,maiz,139.95,kilos,123996.74,Luis,transporte limitado
+2026-04-20,Buenos Aires,Norte,maiz,122.53,kilos,68265.8,Maria,lluvia
+2026-04-21,La Union,Oriente,huevo,145.62,unidades,119605.06,Andres,lluvia
+2026-04-22,La Union,Oriente,leche,35.35,litros,41930.27,Ana,baja produccion
+2026-04-23,El Progreso,Norte,yuca,129.26,kilos,95287.17,Sofia,sin novedad
+2026-04-24,El Progreso,Occidente,huevo,104.78,unidades,123788.0,Ana,baja produccion
+2026-04-25,Monte Verde,Norte,yuca,150.75,kilos,204357.98,Mateo,transporte limitado
+2026-04-26,El Progreso,Oriente,maiz,87.05,kilos,121046.1,Maria,transporte limitado
+2026-04-27,La Rivera,Norte,huevo,97.23,unidades,95069.56,Andres,transporte limitado
+2026-04-28,El Progreso,Oriente,huevo,79.78,unidades,82922.72,Maria,normal
+2026-04-29,Santa Clara,Norte,yuca,106.53,kilos,111349.62,Maria,transporte limitado
+2026-04-30,El Porvenir,Occidente,yuca,181.98,kilos,222089.65,Luis,baja produccion
+2026-05-01,Buenos Aires,Sur,leche,31.42,litros,18063.43,Mateo,lluvia
+2026-05-02,Santa Clara,Oriente,maiz,93.89,kilos,42832.41,Ana,baja produccion
+2026-05-03,Santa Clara,Occidente,huevo,61.6,unidades,66373.26,Maria,normal
+2026-05-04,El Porvenir,Occidente,yuca,161.45,kilos,131809.18,Sofia,lluvia
+2026-05-05,Monte Verde,Oriente,yuca,204.84,kilos,266122.61,Carlos,sin novedad
+2026-05-06,La Union,Sur,huevo,147.72,unidades,129705.85,Valentina,lluvia
+2026-05-07,Santa Clara,Norte,yuca,67.83,kilos,50178.78,Luis,transporte limitado
+2026-05-08,El Progreso,Norte,maiz,129.1,kilos,65158.85,Valentina,lluvia
+2026-05-09,La Union,Sur,yuca,199.57,kilos,152925.83,Andres,alta demanda
+2026-05-10,El Progreso,Sur,yuca,93.68,kilos,42534.21,Andres,lluvia
+2026-05-11,La Esperanza,Occidente,yuca,197.61,kilos,241611.03,Mateo,baja produccion
+2026-05-12,La Esperanza,Norte,leche,18.7,litros,9480.82,Valentina,transporte limitado
+2026-05-13,Monte Verde,Norte,yuca,78.28,kilos,79916.0,Mateo,normal
+2026-05-14,La Union,Occidente,leche,41.38,litros,45703.03,Sofia,normal
+2026-05-15,Buenos Aires,Norte,maiz,182.72,kilos,192153.04,Andres,baja produccion
+2026-05-16,La Esperanza,Oriente,huevo,162.27,unidades,122712.69,Andres,sin novedad
+2026-05-17,La Esperanza,Oriente,yuca,178.28,kilos,199600.16,Luis,lluvia
+2026-05-18,La Esperanza,Occidente,yuca,141.9,kilos,75752.4,Mateo,sin novedad
+2026-05-19,Santa Clara,Sur,maiz,91.36,kilos,75880.29,Sofia,normal
+2026-05-20,Monte Verde,Oriente,leche,29.68,litros,22798.25,Mateo,normal
+2026-05-21,Monte Verde,Oriente,yuca,113.55,kilos,142969.46,Andres,normal
+2026-05-22,Buenos Aires,Oriente,huevo,164.53,unidades,212139.94,Valentina,lluvia
+2026-05-23,La Union,Occidente,huevo,91.43,unidades,57606.09,Luis,normal
+2026-05-24,El Porvenir,Oriente,maiz,178.19,kilos,77347.35,Sofia,alta demanda
+2026-05-25,El Porvenir,Occidente,maiz,204.16,kilos,80535.59,Andres,transporte limitado
+2026-05-26,La Esperanza,Norte,leche,42.83,litros,38064.75,Maria,lluvia
+2026-05-27,La Union,Occidente,leche,22.67,litros,23291.63,Andres,baja produccion
+2026-05-28,La Esperanza,Sur,maiz,202.23,kilos,149774.38,Luis,baja produccion
+2026-05-29,Buenos Aires,Sur,huevo,84.01,unidades,114131.45,Ana,alta demanda
+2026-05-30,El Porvenir,Occidente,leche,27.69,litros,22666.67,Sofia,lluvia
+2026-05-31,El Progreso,Norte,maiz,233.51,kilos,302071.57,Mateo,sin novedad
+2026-06-01,Buenos Aires,Sur,yuca,166.43,kilos,108991.74,Sofia,sin novedad
+2026-06-02,Santa Clara,Sur,yuca,136.31,kilos,76473.92,Maria,alta demanda
+2026-06-03,La Esperanza,Norte,yuca,143.1,kilos,170839.19,Maria,normal
+2026-06-04,La Rivera,Norte,huevo,179.94,unidades,162302.36,Valentina,lluvia
+2026-06-05,Buenos Aires,Sur,leche,34.65,litros,24661.81,Maria,alta demanda
+2026-06-06,La Esperanza,Oriente,leche,37.17,litros,19330.83,Carlos,baja produccion
+2026-06-07,La Rivera,Oriente,leche,27.27,litros,25317.02,Maria,baja produccion
+2026-06-08,El Progreso,Norte,maiz,186.53,kilos,98816.25,Andres,normal
+2026-06-09,El Progreso,Occidente,leche,53.1,litros,33340.89,Carlos,baja produccion
+2026-04-01,La Esperanza,Occidente,huevo,164.46,unidades,168407.48,Sofia,lluvia
+2026-04-02,El Porvenir,Occidente,yuca,128.03,kilos,66061.49,Valentina,alta demanda
+2026-04-03,Monte Verde,Occidente,yuca,151.0,kilos,166746.44,Andres,lluvia
+2026-04-04,Buenos Aires,Sur,leche,29.81,litros,18805.5,Carlos,normal
+2026-04-05,La Esperanza,Oriente,yuca,201.81,kilos,159236.46,Maria,baja produccion
+2026-04-06,Buenos Aires,Oriente,maiz,217.36,kilos,193550.62,Mateo,alta demanda
+2026-04-07,La Esperanza,Oriente,leche,52.97,litros,72305.16,Carlos,normal
+2026-04-08,La Esperanza,Oriente,yuca,134.23,kilos,139192.89,Mateo,baja produccion
+2026-04-09,La Esperanza,Oriente,leche,33.94,litros,37805.2,Valentina,normal
+2026-04-10,El Porvenir,Occidente,leche,39.1,litros,36397.57,Luis,baja produccion
+2026-04-11,La Union,Norte,yuca,183.8,kilos,182255.22,Maria,alta demanda
+2026-04-12,Buenos Aires,Norte,yuca,143.67,kilos,72047.74,Valentina,normal
+2026-04-13,La Esperanza,Sur,maiz,208.45,kilos,186625.15,Maria,transporte limitado
+2026-04-14,Buenos Aires,Occidente,maiz,150.73,kilos,186111.16,Andres,sin novedad
+2026-04-15,La Rivera,Oriente,huevo,154.2,unidades,163065.99,Valentina,sin novedad
+2026-04-16,La Esperanza,Norte,huevo,77.17,unidades,105773.81,Carlos,baja produccion
+2026-04-17,La Union,Sur,maiz,174.36,kilos,202839.34,Valentina,sin novedad
+2026-04-18,Monte Verde,Oriente,leche,39.19,litros,21567.18,Mateo,alta demanda
+2026-04-19,Santa Clara,Norte,huevo,136.67,unidades,159045.74,Mateo,sin novedad
+2026-04-20,Santa Clara,Oriente,maiz,180.96,kilos,154230.31,Valentina,lluvia
+2026-04-21,La Union,Occidente,yuca,141.94,kilos,178991.61,Sofia,lluvia
+2026-04-22,Monte Verde,Oriente,yuca,143.71,kilos,197106.34,Sofia,sin novedad
+2026-04-23,Monte Verde,Oriente,huevo,84.39,unidades,112271.22,Sofia,normal
+2026-04-24,El Porvenir,Norte,huevo,154.57,unidades,184687.44,Sofia,transporte limitado
+2026-04-25,El Progreso,Sur,yuca,198.6,kilos,225352.5,Carlos,baja produccion
+2026-04-26,La Rivera,Norte,yuca,80.59,kilos,77863.8,Carlos,sin novedad
+2026-04-27,Monte Verde,Sur,maiz,89.45,kilos,98683.56,Luis,normal
+2026-04-28,Santa Clara,Oriente,huevo,131.4,unidades,111622.28,Carlos,transporte limitado
+2026-04-29,La Rivera,Sur,leche,51.59,litros,49157.02,Ana,alta demanda
+2026-04-30,Santa Clara,Norte,leche,54.9,litros,47771.4,Sofia,normal
+2026-05-01,La Rivera,Sur,leche,52.35,litros,43296.93,Mateo,baja produccion
+2026-05-02,La Union,Oriente,yuca,88.92,kilos,46293.44,Mateo,sin novedad
+2026-05-03,Santa Clara,Sur,leche,45.25,litros,42814.21,Carlos,baja produccion
+2026-05-04,El Porvenir,Sur,huevo,112.14,unidades,118051.87,Maria,alta demanda
+2026-05-05,Buenos Aires,Oriente,maiz,81.23,kilos,66533.24,Sofia,transporte limitado
+2026-05-06,La Esperanza,Occidente,yuca,158.05,kilos,65627.19,Luis,transporte limitado
+2026-05-07,Santa Clara,Norte,huevo,136.05,unidades,174442.15,Sofia,sin novedad
+2026-05-08,La Rivera,Occidente,yuca,152.19,kilos,74610.72,Maria,sin novedad
+2026-05-09,Buenos Aires,Sur,huevo,138.27,unidades,158349.3,Carlos,sin novedad
+2026-05-10,El Progreso,Norte,huevo,113.94,unidades,149615.4,Luis,baja produccion
+2026-05-11,Monte Verde,Occidente,maiz,109.62,kilos,89223.29,Carlos,normal
+2026-05-12,La Union,Occidente,leche,34.78,litros,28854.82,Ana,sin novedad
+2026-05-13,La Rivera,Norte,leche,32.65,litros,36995.54,Luis,alta demanda
+2026-05-14,Buenos Aires,Norte,leche,38.02,litros,49005.09,Mateo,transporte limitado
+2026-05-15,El Porvenir,Oriente,maiz,218.41,kilos,300805.16,Valentina,alta demanda
+2026-05-16,La Union,Oriente,huevo,92.59,unidades,96745.64,Maria,normal
+2026-05-17,Santa Clara,Norte,huevo,114.04,unidades,66579.37,Ana,transporte limitado
+2026-05-18,La Union,Sur,huevo,114.47,unidades,69813.84,Andres,transporte limitado
+2026-05-19,Monte Verde,Sur,leche,19.19,litros,19106.9,Ana,lluvia
+2026-05-20,El Progreso,Sur,leche,39.98,litros,42203.88,Ana,sin novedad
+2026-05-21,La Esperanza,Sur,huevo,101.45,unidades,115866.55,Ana,baja produccion
+2026-05-22,La Rivera,Sur,maiz,226.84,kilos,155351.12,Andres,transporte limitado
+2026-05-23,Santa Clara,Occidente,maiz,154.44,kilos,144332.52,Maria,baja produccion
+2026-05-24,La Union,Occidente,leche,53.97,litros,56933.47,Andres,alta demanda
+2026-05-25,Santa Clara,Oriente,yuca,116.47,kilos,98672.77,Carlos,sin novedad
+2026-05-26,Santa Clara,Occidente,huevo,168.06,unidades,229599.45,Maria,lluvia
+2026-05-27,La Rivera,Norte,maiz,139.45,kilos,114666.41,Andres,baja produccion
+2026-05-28,Monte Verde,Sur,leche,27.93,litros,27457.09,Luis,baja produccion
+2026-05-29,Monte Verde,Sur,huevo,69.24,unidades,46276.38,Ana,lluvia
+2026-05-30,El Progreso,Sur,huevo,168.02,unidades,182966.56,Valentina,baja produccion
+2026-05-31,Buenos Aires,Oriente,yuca,117.1,kilos,85157.76,Sofia,baja produccion
+2026-06-01,La Union,Sur,huevo,53.81,unidades,45359.94,Andres,transporte limitado
+2026-06-02,Buenos Aires,Oriente,huevo,46.4,unidades,52353.82,Ana,baja produccion
+2026-06-03,El Porvenir,Occidente,yuca,82.86,kilos,62048.2,Carlos,baja produccion
+2026-06-04,Buenos Aires,Occidente,yuca,174.5,kilos,193648.9,Mateo,lluvia
+2026-06-05,Buenos Aires,Norte,maiz,105.19,kilos,57144.48,Ana,normal
+2026-06-06,La Esperanza,Norte,leche,33.26,litros,19723.35,Maria,lluvia
+2026-06-07,La Union,Occidente,yuca,69.07,kilos,91904.47,Mateo,normal
+2026-06-08,La Esperanza,Norte,huevo,41.66,unidades,26598.98,Sofia,baja produccion
+2026-06-09,El Porvenir,Oriente,maiz,99.26,kilos,50259.54,Carlos,transporte limitado
+2026-04-01,La Rivera,Sur,huevo,51.06,unidades,42479.25,Carlos,transporte limitado
+2026-04-02,El Progreso,Norte,leche,21.46,litros,19965.02,Ana,sin novedad
+2026-04-03,Santa Clara,Norte,leche,36.49,litros,42824.49,Luis,lluvia
+2026-04-04,Monte Verde,Norte,huevo,77.95,unidades,83301.28,Sofia,lluvia
+2026-04-05,Buenos Aires,Norte,leche,53.57,litros,61062.69,Valentina,transporte limitado
+2026-04-06,Santa Clara,Occidente,maiz,182.01,kilos,193091.99,Andres,sin novedad
+2026-04-07,Santa Clara,Sur,leche,36.53,litros,14845.11,Valentina,normal
+2026-04-08,Buenos Aires,Occidente,huevo,175.65,unidades,178430.38,Mateo,lluvia
+2026-04-09,Buenos Aires,Oriente,huevo,100.46,unidades,104850.65,Luis,lluvia
+2026-04-10,El Progreso,Occidente,leche,27.91,litros,32740.8,Maria,transporte limitado
+2026-04-11,Buenos Aires,Norte,leche,21.39,litros,17475.05,Sofia,lluvia
+2026-04-12,El Progreso,Norte,maiz,157.58,kilos,139940.95,Luis,normal
+2026-04-13,Buenos Aires,Oriente,leche,40.09,litros,50389.28,Ana,alta demanda
+2026-04-14,El Porvenir,Sur,leche,44.82,litros,62405.88,Carlos,sin novedad
+2026-04-15,El Porvenir,Sur,maiz,104.99,kilos,91108.24,Luis,alta demanda
+2026-04-16,La Rivera,Occidente,huevo,81.97,unidades,59770.98,Carlos,baja produccion
+2026-04-17,Monte Verde,Occidente,huevo,54.98,unidades,74017.63,Andres,transporte limitado
+2026-04-18,La Union,Oriente,yuca,124.59,kilos,128774.82,Maria,transporte limitado
+2026-04-19,Monte Verde,Occidente,huevo,83.99,unidades,114827.89,Sofia,baja produccion
+2026-04-20,Monte Verde,Sur,yuca,116.41,kilos,88772.16,Luis,baja produccion
+2026-04-21,Santa Clara,Oriente,leche,53.26,litros,58255.01,Mateo,sin novedad
+2026-04-22,El Progreso,Sur,huevo,134.22,unidades,89655.51,Sofia,sin novedad
+2026-04-23,El Porvenir,Occidente,huevo,50.36,unidades,42966.97,Valentina,baja produccion
+2026-04-24,La Esperanza,Norte,yuca,165.25,kilos,160872.68,Luis,lluvia
+2026-04-25,Buenos Aires,Oriente,maiz,196.46,kilos,271662.65,Valentina,alta demanda
+2026-04-26,El Progreso,Occidente,leche,21.65,litros,24555.34,Carlos,transporte limitado
+2026-04-27,El Porvenir,Norte,huevo,148.13,unidades,129686.2,Andres,alta demanda
+2026-04-28,El Progreso,Oriente,yuca,122.4,kilos,57757.23,Maria,transporte limitado
+2026-04-29,Buenos Aires,Occidente,huevo,149.8,unidades,107214.15,Luis,sin novedad
+2026-04-30,La Union,Oriente,yuca,70.08,kilos,76829.96,Ana,sin novedad
+2026-05-01,El Progreso,Oriente,maiz,247.39,kilos,220620.82,Maria,baja produccion
+2026-05-02,El Porvenir,Occidente,huevo,72.46,unidades,39394.64,Valentina,normal
+2026-05-03,Monte Verde,Oriente,huevo,122.91,unidades,133968.51,Carlos,sin novedad
+2026-05-04,El Progreso,Occidente,leche,47.58,litros,34927.65,Carlos,normal
+2026-05-05,La Rivera,Norte,huevo,113.88,unidades,111240.19,Valentina,transporte limitado
+2026-05-06,Buenos Aires,Norte,huevo,126.43,unidades,137971.51,Sofia,sin novedad
+2026-05-07,Santa Clara,Occidente,yuca,77.68,kilos,42117.84,Maria,alta demanda
+2026-05-08,Santa Clara,Sur,huevo,99.23,unidades,90720.85,Maria,alta demanda
+2026-05-09,La Rivera,Norte,maiz,113.68,kilos,113723.25,Andres,alta demanda
+2026-05-10,Santa Clara,Occidente,maiz,226.74,kilos,199692.17,Mateo,sin novedad
+2026-05-11,La Union,Sur,huevo,139.42,unidades,73281.41,Ana,transporte limitado
+2026-05-12,La Esperanza,Norte,yuca,93.73,kilos,109643.22,Mateo,baja produccion
+2026-05-13,El Progreso,Occidente,yuca,176.27,kilos,129594.56,Ana,baja produccion
+2026-05-14,Monte Verde,Norte,huevo,54.34,unidades,61888.52,Sofia,alta demanda
+2026-05-15,La Rivera,Sur,yuca,189.33,kilos,238282.22,Luis,lluvia
+2026-05-16,Buenos Aires,Norte,huevo,63.24,unidades,35853.96,Carlos,baja produccion
+2026-05-17,Buenos Aires,Oriente,yuca,149.53,kilos,206044.89,Sofia,baja produccion
+2026-05-18,La Rivera,Oriente,leche,23.02,litros,18005.69,Ana,sin novedad
+2026-05-19,Santa Clara,Occidente,maiz,124.94,kilos,152415.04,Valentina,lluvia
+2026-05-20,La Rivera,Occidente,huevo,92.52,unidades,109574.08,Luis,baja produccion
+2026-05-21,La Rivera,Occidente,yuca,128.2,kilos,123207.04,Luis,sin novedad
+2026-05-22,Buenos Aires,Occidente,leche,47.44,litros,64828.42,Carlos,transporte limitado
+2026-05-23,Buenos Aires,Oriente,yuca,110.66,kilos,104512.75,Mateo,sin novedad
+2026-05-24,La Esperanza,Sur,leche,21.68,litros,18049.92,Luis,alta demanda
+2026-05-25,La Union,Oriente,leche,54.7,litros,76332.69,Maria,lluvia
+2026-05-26,La Rivera,Norte,leche,42.22,litros,31261.21,Maria,alta demanda
+2026-05-27,La Rivera,Occidente,maiz,157.26,kilos,70758.01,Carlos,normal
+2026-05-28,Santa Clara,Norte,maiz,173.5,kilos,62193.8,Andres,alta demanda
+2026-05-29,Santa Clara,Norte,huevo,49.92,unidades,55775.69,Luis,transporte limitado
+2026-05-30,Buenos Aires,Sur,yuca,80.57,kilos,91915.52,Maria,normal
+2026-05-31,La Esperanza,Occidente,maiz,159.22,kilos,160730.05,Maria,baja produccion
+2026-06-01,La Union,Oriente,maiz,95.6,kilos,108990.49,Valentina,alta demanda
+2026-06-02,Buenos Aires,Norte,maiz,124.6,kilos,76077.69,Sofia,sin novedad
+2026-06-03,La Rivera,Norte,maiz,173.19,kilos,196611.49,Sofia,lluvia
+2026-06-04,La Union,Oriente,huevo,55.78,unidades,54308.87,Ana,transporte limitado
+2026-06-05,Santa Clara,Occidente,huevo,160.51,unidades,117763.47,Maria,normal
+2026-06-06,La Esperanza,Oriente,leche,18.51,litros,24409.29,Valentina,sin novedad
+2026-06-07,El Porvenir,Oriente,huevo,138.25,unidades,126276.59,Maria,normal
+2026-06-08,La Rivera,Occidente,leche,36.92,litros,44247.26,Andres,baja produccion
+2026-06-09,El Progreso,Sur,yuca,164.8,kilos,204152.84,Ana,normal
+2026-04-01,El Porvenir,Norte,leche,34.77,litros,23461.22,Maria,normal
+2026-04-02,Santa Clara,Sur,leche,24.06,litros,21633.68,Sofia,transporte limitado
+2026-04-03,Santa Clara,Occidente,yuca,169.94,kilos,220054.0,Andres,transporte limitado
+2026-04-04,El Progreso,Oriente,yuca,166.85,kilos,71899.59,Mateo,normal
+2026-04-05,La Union,Sur,maiz,146.18,kilos,66957.77,Luis,sin novedad
+2026-04-06,La Esperanza,Occidente,leche,0,litros,0.0,Andres,lluvia
+2026-04-07,Santa Clara,Sur,leche,38.46,litros,43371.31,Valentina,transporte limitado
+2026-04-08,Monte Verde,Norte,huevo,168.22,unidades,204773.68,Andres,baja produccion
+2026-04-09,La Esperanza,Norte,maiz,120.17,kilos,47854.7,Valentina,alta demanda
+2026-04-10,La Rivera,Oriente,yuca,109.1,kilos,39097.91,Carlos,baja produccion
+2026-04-11,La Rivera,Sur,maiz,163.51,kilos,141931.37,Carlos,lluvia
+2026-04-12,La Esperanza,Oriente,huevo,43.35,unidades,44118.98,Ana,normal
+2026-04-13,El Porvenir,Norte,yuca,75.59,kilos,45359.74,Mateo,lluvia
+2026-04-14,La Rivera,Oriente,leche,19.62,litros,24285.23,Valentina,alta demanda
+2026-04-15,El Progreso,Occidente,leche,36.7,litros,28041.33,Ana,sin novedad
+2026-04-16,Santa Clara,Oriente,maiz,132.5,kilos,175210.59,Valentina,transporte limitado
+2026-04-17,La Union,Sur,yuca,95.04,kilos,46846.87,Luis,normal
+2026-04-18,Santa Clara,Occidente,huevo,105.25,unidades,96063.86,Carlos,transporte limitado
+2026-04-19,La Union,Norte,yuca,187.87,kilos,225063.89,Sofia,lluvia
+2026-04-20,Buenos Aires,Oriente,maiz,96.42,kilos,69762.75,Ana,transporte limitado
+2026-04-21,Santa Clara,Norte,leche,53.23,litros,49703.59,Carlos,alta demanda
+2026-04-22,El Progreso,Sur,maiz,101.86,kilos,119177.01,Carlos,lluvia
+2026-04-23,El Porvenir,Norte,yuca,162.94,kilos,71407.05,Sofia,normal
+2026-04-24,El Progreso,Norte,maiz,242.45,kilos,117644.29,Andres,normal
+2026-04-25,La Union,Occidente,leche,24.22,litros,29373.28,Valentina,normal
+2026-04-26,El Porvenir,Occidente,huevo,64.19,unidades,35080.39,Sofia,lluvia
+2026-04-27,La Esperanza,Norte,maiz,196.51,kilos,250927.06,Mateo,normal
+2026-04-28,La Rivera,Norte,huevo,59.21,unidades,75722.79,Carlos,alta demanda
+2026-04-29,Buenos Aires,Occidente,huevo,116.23,unidades,152064.97,Andres,transporte limitado
+2026-04-30,Santa Clara,Norte,leche,29.8,litros,38458.48,Sofia,alta demanda
+2026-05-01,Buenos Aires,Norte,maiz,255.32,kilos,265458.16,Sofia,lluvia
+2026-05-02,El Porvenir,Oriente,yuca,200.28,kilos,106628.6,Carlos,sin novedad
+2026-05-03,Buenos Aires,Sur,leche,44.03,litros,41653.87,Maria,alta demanda
+2026-05-04,La Rivera,Norte,maiz,168.28,kilos,100001.15,Carlos,baja produccion
+2026-05-05,La Union,Sur,leche,30.27,litros,36226.16,Andres,transporte limitado
+2026-05-06,La Esperanza,Oriente,leche,23.47,litros,11705.32,Luis,normal
+2026-05-07,Buenos Aires,Occidente,huevo,122.04,unidades,84053.02,Maria,sin novedad
+2026-05-08,La Union,Sur,yuca,86.13,kilos,92868.67,Andres,sin novedad
+2026-05-09,Santa Clara,Occidente,huevo,82.96,unidades,40129.06,Ana,baja produccion
+2026-05-10,La Esperanza,Norte,maiz,188.43,kilos,257378.1,Carlos,alta demanda
+2026-05-11,Santa Clara,Norte,yuca,171.8,kilos,237341.47,Maria,sin novedad
+2026-05-12,Buenos Aires,Oriente,huevo,41.6,unidades,44837.93,Andres,normal
+2026-05-13,La Esperanza,Occidente,leche,32.28,litros,44144.74,Valentina,alta demanda
+2026-05-14,Buenos Aires,Sur,huevo,54.2,unidades,68143.13,Carlos,alta demanda
+2026-05-15,El Progreso,Oriente,leche,28.91,litros,39006.68,Luis,lluvia
+2026-05-16,El Porvenir,Oriente,maiz,211.76,kilos,273812.11,Luis,baja produccion
+2026-05-17,La Union,Sur,leche,33.96,litros,33541.73,Valentina,normal
+2026-05-18,El Progreso,Oriente,yuca,90.83,kilos,98283.2,Sofia,transporte limitado
+2026-05-19,Monte Verde,Norte,leche,19.84,litros,24439.85,Maria,transporte limitado
+2026-05-20,La Esperanza,Sur,huevo,52.27,unidades,52601.68,Mateo,normal
+2026-05-21,La Esperanza,Oriente,maiz,110.75,kilos,48290.64,Luis,alta demanda
+2026-05-22,La Union,Sur,huevo,165.28,unidades,169240.06,Valentina,transporte limitado
+2026-05-23,El Porvenir,Sur,yuca,87.99,kilos,71423.9,Sofia,transporte limitado
+2026-05-24,La Esperanza,Occidente,maiz,215.4,kilos,94774.42,Andres,baja produccion
+2026-05-25,Monte Verde,Sur,leche,49.11,litros,38775.47,Mateo,alta demanda
+2026-05-26,La Rivera,Norte,leche,32.61,litros,12602.62,Maria,alta demanda
+2026-05-27,Santa Clara,Norte,maiz,254.99,kilos,123031.48,Valentina,sin novedad
+2026-05-28,El Porvenir,Oriente,maiz,259.51,kilos,318110.87,Sofia,sin novedad
+2026-05-29,El Progreso,Occidente,leche,32.36,litros,22407.14,Sofia,normal
+2026-05-30,El Porvenir,Norte,leche,33.33,litros,32241.14,Luis,baja produccion
+2026-05-31,El Progreso,Occidente,yuca,190.12,kilos,241792.38,Sofia,sin novedad
+2026-06-01,La Union,Norte,huevo,45.25,unidades,22672.3,Valentina,alta demanda
+2026-06-02,Buenos Aires,Norte,maiz,88.87,kilos,56167.05,Andres,transporte limitado
+2026-06-03,La Rivera,Sur,yuca,102.05,kilos,110315.23,Luis,lluvia
+2026-06-04,La Rivera,Sur,huevo,148.36,unidades,165456.92,Luis,alta demanda
+2026-06-05,Monte Verde,Sur,huevo,143.73,unidades,181178.62,Ana,normal
+2026-06-06,La Rivera,Sur,huevo,58.99,unidades,75111.92,Ana,lluvia
+2026-06-07,Monte Verde,Oriente,leche,27.23,litros,35778.39,Carlos,transporte limitado
+2026-06-08,La Union,Occidente,huevo,128.96,unidades,49274.5,Andres,baja produccion
+2026-06-09,La Union,Sur,maiz,252.89,kilos,234909.62,Andres,transporte limitado
+2026-04-01,El Progreso,Sur,yuca,64.12,kilos,79926.37,Carlos,sin novedad
+2026-04-02,Monte Verde,Occidente,maiz,128.44,kilos,47658.3,Ana,lluvia
+2026-04-03,Santa Clara,Occidente,leche,26.28,litros,35219.28,Sofia,alta demanda
+2026-04-04,Buenos Aires,Norte,huevo,75.28,unidades,79876.29,Valentina,normal
+2026-04-05,Buenos Aires,Oriente,yuca,104.77,kilos,43692.12,Sofia,transporte limitado
+2026-04-06,La Rivera,Occidente,yuca,88.25,kilos,53154.49,Ana,sin novedad
+2026-04-07,Buenos Aires,Occidente,maiz,209.83,kilos,293204.39,Sofia,alta demanda
+2026-04-08,El Porvenir,Sur,leche,39.57,litros,47753.69,Andres,sin novedad
+2026-04-09,La Union,Oriente,yuca,136.1,kilos,167766.47,Maria,normal
+2026-04-10,La Union,Oriente,maiz,213.37,kilos,199924.11,Maria,sin novedad
+2026-04-11,El Progreso,Oriente,maiz,143.95,kilos,96797.67,Andres,transporte limitado
+2026-04-12,La Rivera,Occidente,huevo,159.17,unidades,200508.52,Luis,lluvia
+2026-04-13,El Progreso,Sur,huevo,114.18,unidades,144368.23,Maria,lluvia
+2026-04-14,Buenos Aires,Oriente,huevo,178.21,unidades,246995.8,Maria,sin novedad
+2026-04-15,Santa Clara,Norte,leche,36.04,litros,19305.38,Ana,alta demanda
+2026-04-16,La Rivera,Norte,maiz,217.01,kilos,250149.15,Mateo,lluvia
+2026-04-17,El Porvenir,Sur,huevo,96.48,unidades,72599.49,Ana,sin novedad
+2026-04-18,Buenos Aires,Norte,leche,51.0,litros,46286.86,Ana,sin novedad
+2026-04-19,Monte Verde,Oriente,maiz,204.83,kilos,99419.84,Valentina,lluvia
+2026-04-20,El Progreso,Occidente,leche,29.03,litros,32345.91,Andres,sin novedad
+2026-04-21,Santa Clara,Occidente,yuca,209.42,kilos,238240.67,Maria,normal
+2026-04-22,Monte Verde,Norte,maiz,210.89,kilos,236361.39,Maria,transporte limitado
+2026-04-23,La Esperanza,Norte,huevo,162.72,unidades,148314.42,Ana,sin novedad
+2026-04-24,El Progreso,Oriente,leche,19.78,litros,16150.96,Luis,alta demanda
+2026-04-25,Santa Clara,Oriente,maiz,205.13,kilos,136651.92,Luis,baja produccion
+2026-04-26,Santa Clara,Oriente,huevo,156.29,unidades,172654.27,Luis,normal
+2026-04-27,El Progreso,Oriente,huevo,67.81,unidades,42458.8,Carlos,sin novedad
+2026-04-28,El Porvenir,Oriente,yuca,84.06,kilos,109771.81,Mateo,lluvia
+2026-04-29,La Esperanza,Sur,leche,42.85,litros,52576.68,Mateo,normal
+2026-04-30,El Progreso,Oriente,leche,51.48,litros,42707.23,Sofia,alta demanda
+2026-05-01,La Esperanza,Oriente,leche,48.09,litros,59865.37,Andres,alta demanda
+2026-05-02,El Progreso,Sur,leche,49.5,litros,17827.72,Maria,transporte limitado
+2026-05-03,Buenos Aires,Oriente,huevo,173.71,unidades,194506.79,Andres,lluvia
+2026-05-04,El Progreso,Occidente,huevo,96.04,unidades,117888.5,Mateo,sin novedad
+2026-05-05,Santa Clara,Norte,leche,22.9,litros,31616.83,Maria,alta demanda
+2026-05-06,La Union,Sur,huevo,65.38,unidades,47500.46,Ana,alta demanda
+2026-05-07,La Union,Norte,leche,50.84,litros,21175.0,Andres,sin novedad
+2026-05-08,Monte Verde,Sur,yuca,137.86,kilos,137742.95,Valentina,alta demanda
+2026-05-09,Buenos Aires,Norte,huevo,60.81,unidades,78242.1,Ana,sin novedad
+2026-05-10,Santa Clara,Oriente,huevo,159.26,unidades,68260.19,Mateo,lluvia
+2026-05-11,Buenos Aires,Sur,yuca,67.55,kilos,69271.39,Valentina,normal
+2026-05-12,La Union,Oriente,huevo,152.18,unidades,190136.54,Mateo,normal
+2026-05-13,La Union,Norte,leche,21.8,litros,20382.73,Ana,baja produccion
+2026-05-14,La Rivera,Sur,maiz,197.83,kilos,140043.25,Ana,alta demanda
+2026-05-15,Buenos Aires,Sur,huevo,140.33,unidades,115794.57,Luis,normal
+2026-05-16,Buenos Aires,Norte,yuca,184.48,kilos,121126.38,Andres,normal
+2026-05-17,Santa Clara,Oriente,huevo,59.66,unidades,66081.63,Luis,baja produccion
+2026-05-18,Monte Verde,Oriente,maiz,101.73,kilos,58634.02,Carlos,normal
+2026-05-19,El Porvenir,Occidente,leche,52.29,litros,50629.88,Mateo,sin novedad
+2026-05-20,Santa Clara,Occidente,huevo,40.61,unidades,37803.35,Valentina,baja produccion
+2026-05-21,Santa Clara,Occidente,maiz,211.49,kilos,160050.53,Andres,alta demanda
+2026-05-22,Monte Verde,Sur,yuca,119.68,kilos,78855.02,Maria,alta demanda
+2026-05-23,La Rivera,Sur,yuca,166.78,kilos,169150.35,Carlos,baja produccion
+2026-05-24,La Rivera,Oriente,yuca,198.18,kilos,217188.69,Maria,sin novedad
+2026-05-25,El Progreso,Oriente,yuca,144.34,kilos,193387.79,Valentina,alta demanda
+2026-05-26,La Esperanza,Oriente,leche,18.94,litros,19958.34,Carlos,lluvia
+2026-05-27,La Rivera,Norte,yuca,81.96,kilos,96186.23,Carlos,transporte limitado
+2026-05-28,La Union,Occidente,leche,40.8,litros,38351.15,Carlos,lluvia
+2026-05-29,La Rivera,Norte,leche,52.28,litros,70815.2,Andres,normal
+2026-05-30,La Rivera,Oriente,maiz,191.7,kilos,242236.72,Carlos,baja produccion
+2026-05-31,Monte Verde,Sur,maiz,132.95,kilos,141829.97,Maria,sin novedad
+2026-06-01,El Progreso,Oriente,huevo,45.69,unidades,28668.26,Maria,normal
+2026-06-02,Buenos Aires,Norte,huevo,139.36,unidades,71267.11,Andres,sin novedad
+2026-06-03,La Rivera,Sur,huevo,150.59,unidades,64230.37,Andres,lluvia
+2026-06-04,El Progreso,Sur,maiz,154.87,kilos,69156.09,Carlos,sin novedad
+2026-06-05,Buenos Aires,Norte,yuca,114.12,kilos,130129.72,Mateo,normal
+2026-06-06,Buenos Aires,Norte,huevo,73.65,unidades,96815.7,Carlos,sin novedad
+2026-06-07,Buenos Aires,Norte,huevo,168.23,unidades,127042.2,Sofia,baja produccion
+2026-06-08,Buenos Aires,Norte,huevo,108.15,unidades,111838.41,Andres,normal
+2026-06-09,Santa Clara,Occidente,leche,41.2,litros,41652.8,Carlos,normal
+2026-04-01,Monte Verde,Norte,huevo,130.52,unidades,148040.4,Maria,alta demanda
+2026-04-02,Buenos Aires,Sur,leche,21.24,litros,25146.58,Luis,transporte limitado
+2026-04-03,El Porvenir,Norte,huevo,103.16,unidades,70378.28,Valentina,baja produccion
+2026-04-04,La Esperanza,Oriente,leche,45.97,litros,49920.02,Luis,baja produccion
+2026-04-05,El Progreso,Occidente,yuca,178.03,kilos,78481.05,Mateo,alta demanda
+2026-04-06,La Esperanza,Sur,huevo,61.89,unidades,70188.93,Sofia,transporte limitado
+2026-04-07,Buenos Aires,Occidente,leche,38.48,litros,18447.19,Ana,baja produccion
+2026-04-08,El Progreso,Occidente,yuca,91.51,kilos,101780.55,Carlos,sin novedad
+2026-04-09,Santa Clara,Sur,maiz,113.12,kilos,69611.66,Luis,sin novedad
+2026-04-10,La Esperanza,Norte,huevo,130.25,unidades,137448.85,Sofia,lluvia
+2026-04-11,La Union,Norte,yuca,113.57,kilos,67717.19,Sofia,lluvia
+2026-04-12,Buenos Aires,Oriente,huevo,103.09,unidades,69169.19,Maria,transporte limitado
+2026-04-13,El Porvenir,Oriente,maiz,80.87,kilos,47115.02,Valentina,transporte limitado
+2026-04-14,Santa Clara,Occidente,yuca,191.68,kilos,139289.77,Sofia,baja produccion
+2026-04-15,El Progreso,Sur,maiz,196.2,kilos,126479.69,Maria,transporte limitado
+2026-04-16,El Progreso,Sur,leche,51.01,litros,51683.73,Valentina,normal
+2026-04-17,La Rivera,Sur,huevo,131.55,unidades,100257.32,Sofia,alta demanda
+2026-04-18,El Progreso,Sur,huevo,0,unidades,0.0,Maria,alta demanda
+2026-04-19,Santa Clara,Occidente,maiz,181.94,kilos,230300.55,Maria,transporte limitado
+2026-04-20,La Esperanza,Norte,maiz,217.07,kilos,136227.7,Carlos,sin novedad
+2026-04-21,Monte Verde,Oriente,yuca,118.21,kilos,150792.17,Ana,normal
+2026-04-22,La Rivera,Oriente,yuca,146.79,kilos,109430.85,Valentina,baja produccion
+2026-04-23,El Progreso,Oriente,yuca,116.45,kilos,103895.57,Andres,alta demanda
+2026-04-24,La Union,Oriente,leche,36.57,litros,19158.52,Luis,lluvia
+2026-04-25,Santa Clara,Occidente,maiz,108.32,kilos,130829.2,Carlos,transporte limitado
+2026-04-26,El Progreso,Norte,huevo,134.53,unidades,130538.55,Valentina,lluvia
+2026-04-27,La Esperanza,Sur,maiz,183.23,kilos,185248.73,Ana,normal
+2026-04-28,Santa Clara,Oriente,yuca,198.37,kilos,153881.39,Ana,normal
+2026-04-29,Monte Verde,Occidente,huevo,124.91,unidades,106891.96,Carlos,baja produccion
+2026-04-30,Santa Clara,Occidente,maiz,192.18,kilos,101107.39,Andres,baja produccion
+2026-05-01,El Progreso,Sur,maiz,148.08,kilos,54403.22,Valentina,baja produccion
+2026-05-02,El Progreso,Norte,maiz,165.66,kilos,64771.14,Luis,alta demanda
+2026-05-03,Santa Clara,Oriente,leche,51.19,litros,52812.38,Valentina,normal
+2026-05-04,El Porvenir,Norte,maiz,248.92,kilos,288026.64,Andres,alta demanda
+2026-05-05,Santa Clara,Occidente,yuca,131.57,kilos,164726.42,Sofia,transporte limitado
+2026-05-06,Monte Verde,Norte,leche,44.24,litros,42332.66,Luis,alta demanda
+2026-05-07,Monte Verde,Oriente,yuca,121.33,kilos,96745.53,Sofia,baja produccion
+2026-05-08,El Porvenir,Occidente,yuca,151.78,kilos,116464.87,Carlos,baja produccion
+2026-05-09,La Union,Oriente,maiz,146.64,kilos,90398.65,Sofia,sin novedad
+2026-05-10,El Porvenir,Sur,maiz,233.9,kilos,265524.43,Mateo,normal
+2026-05-11,Monte Verde,Sur,huevo,150.05,unidades,149258.73,Ana,alta demanda
+2026-05-12,La Esperanza,Norte,leche,48.46,litros,47503.29,Luis,transporte limitado
+2026-05-13,Monte Verde,Oriente,yuca,72.01,kilos,54262.58,Valentina,sin novedad
+2026-05-14,La Esperanza,Sur,maiz,195.25,kilos,109690.01,Sofia,normal
+2026-05-15,Monte Verde,Norte,maiz,201.32,kilos,208923.87,Maria,transporte limitado
+2026-05-16,El Porvenir,Norte,yuca,160.45,kilos,89904.29,Ana,normal
+2026-05-17,La Rivera,Occidente,yuca,112.12,kilos,65882.87,Carlos,alta demanda
+2026-05-18,La Esperanza,Oriente,yuca,86.26,kilos,80787.86,Sofia,normal
+2026-05-19,La Rivera,Oriente,yuca,164.13,kilos,154500.01,Carlos,alta demanda
+2026-05-20,La Union,Sur,leche,35.83,litros,26937.24,Carlos,transporte limitado
+2026-05-21,El Porvenir,Oriente,yuca,0,kilos,0.0,Carlos,normal
+2026-05-22,El Porvenir,Sur,yuca,71.4,kilos,60717.36,Andres,baja produccion
+2026-05-23,La Rivera,Sur,maiz,250.48,kilos,326982.56,Mateo,lluvia
+2026-05-24,Monte Verde,Sur,yuca,91.02,kilos,55720.64,Andres,normal
+2026-05-25,El Progreso,Occidente,leche,43.01,litros,42774.23,Ana,transporte limitado
+2026-05-26,Buenos Aires,Occidente,huevo,165.74,unidades,157990.88,Sofia,lluvia
+2026-05-27,La Rivera,Occidente,huevo,71.09,unidades,28923.36,Valentina,baja produccion
+2026-05-28,La Esperanza,Occidente,yuca,119.06,kilos,63523.32,Luis,transporte limitado
+2026-05-29,La Esperanza,Oriente,leche,42.94,litros,19571.42,Andres,lluvia
+2026-05-30,La Rivera,Occidente,maiz,128.49,kilos,91260.19,Maria,alta demanda
+2026-05-31,Monte Verde,Occidente,huevo,138.1,unidades,172216.55,Sofia,lluvia
+2026-06-01,Santa Clara,Occidente,maiz,226.55,kilos,270566.84,Valentina,lluvia
+2026-06-02,Santa Clara,Oriente,maiz,0,kilos,0.0,Maria,alta demanda
+2026-06-03,La Rivera,Norte,yuca,144.32,kilos,110884.23,Maria,lluvia
+2026-06-04,La Rivera,Oriente,huevo,157.46,unidades,178216.83,Sofia,transporte limitado
+2026-06-05,La Rivera,Sur,yuca,62.98,kilos,79401.22,Carlos,transporte limitado
+2026-06-06,Buenos Aires,Occidente,yuca,160.98,kilos,180837.28,Luis,baja produccion
+2026-06-07,La Rivera,Occidente,huevo,128.44,unidades,67553.57,Andres,sin novedad
+2026-06-08,El Porvenir,Oriente,leche,20.93,litros,14214.74,Sofia,baja produccion
+2026-06-09,El Porvenir,Occidente,yuca,193.15,kilos,257992.06,Mateo,lluvia
+2026-04-01,Santa Clara,Sur,leche,22.63,litros,13900.01,Luis,lluvia
+2026-04-02,El Porvenir,Norte,leche,21.54,litros,18241.04,Ana,alta demanda
+2026-04-03,El Progreso,Oriente,leche,27.71,litros,28751.18,Valentina,lluvia
+2026-04-04,Monte Verde,Norte,yuca,126.47,kilos,114212.46,Maria,normal
+2026-04-05,Buenos Aires,Occidente,yuca,189.64,kilos,239789.01,Sofia,lluvia
+2026-04-06,Santa Clara,Oriente,huevo,128.35,unidades,120929.28,Sofia,alta demanda
+2026-04-07,Monte Verde,Norte,leche,34.35,litros,21393.09,Sofia,normal
+2026-04-08,Santa Clara,Occidente,yuca,103.01,kilos,110443.04,Mateo,transporte limitado
+2026-04-09,La Esperanza,Sur,huevo,151.72,unidades,180031.82,Andres,alta demanda
+2026-04-10,El Porvenir,Sur,huevo,74.99,unidades,77111.49,Valentina,transporte limitado
+2026-04-11,El Progreso,Oriente,huevo,127.55,unidades,151779.02,Sofia,sin novedad
+2026-04-12,La Rivera,Occidente,huevo,66.32,unidades,32725.95,Luis,baja produccion
+2026-04-13,La Union,Norte,yuca,165.07,kilos,113349.59,Maria,baja produccion
+2026-04-14,La Esperanza,Norte,maiz,255.02,kilos,122738.87,Mateo,lluvia
+2026-04-15,El Progreso,Oriente,maiz,82.65,kilos,65397.24,Mateo,alta demanda
+2026-04-16,La Esperanza,Occidente,yuca,72.03,kilos,36259.34,Sofia,normal
+2026-04-17,La Union,Norte,maiz,114.59,kilos,138437.7,Ana,sin novedad
+2026-04-18,Monte Verde,Sur,huevo,147.97,unidades,166392.26,Ana,alta demanda
+2026-04-19,El Progreso,Sur,maiz,165.11,kilos,111897.5,Andres,sin novedad
+2026-04-20,La Esperanza,Sur,leche,27.37,litros,15290.52,Ana,normal
+2026-04-21,Monte Verde,Occidente,huevo,85.43,unidades,54667.09,Luis,lluvia
+2026-04-22,La Esperanza,Oriente,leche,39.5,litros,42376.66,Maria,normal
+2026-04-23,Monte Verde,Norte,maiz,169.99,kilos,119901.29,Ana,transporte limitado
+2026-04-24,Santa Clara,Occidente,leche,22.66,litros,31288.01,Andres,sin novedad
+2026-04-25,Monte Verde,Occidente,leche,43.5,litros,21378.89,Ana,sin novedad
+2026-04-26,La Union,Oriente,yuca,141.41,kilos,133637.66,Andres,sin novedad
+2026-04-27,La Union,Norte,yuca,190.15,kilos,238369.93,Maria,baja produccion
+2026-04-28,Santa Clara,Occidente,huevo,81.39,unidades,59859.77,Ana,sin novedad
+2026-04-29,Santa Clara,Norte,leche,40.93,litros,40979.41,Andres,sin novedad
+2026-04-30,El Porvenir,Oriente,maiz,174.33,kilos,161959.75,Sofia,alta demanda
+2026-05-01,Buenos Aires,Sur,leche,21.56,litros,8537.03,Maria,normal
+2026-05-02,Monte Verde,Occidente,leche,35.96,litros,34146.28,Valentina,baja produccion
+2026-05-03,La Rivera,Occidente,leche,31.56,litros,13394.62,Carlos,normal
+2026-05-04,La Union,Norte,leche,31.35,litros,40283.25,Andres,baja produccion
+2026-05-05,La Rivera,Norte,leche,45.17,litros,19505.86,Carlos,normal
+2026-05-06,Monte Verde,Occidente,huevo,66.52,unidades,40657.1,Maria,sin novedad
+2026-05-07,El Progreso,Sur,yuca,161.17,kilos,128682.76,Luis,lluvia
+2026-05-08,El Porvenir,Oriente,yuca,158.63,kilos,155443.36,Andres,baja produccion
+2026-05-09,Buenos Aires,Sur,yuca,121.85,kilos,148347.83,Andres,baja produccion
+2026-05-10,Monte Verde,Occidente,huevo,147.2,unidades,90792.02,Mateo,alta demanda
+2026-05-11,La Esperanza,Norte,leche,54.37,litros,48579.04,Sofia,transporte limitado
+2026-05-12,Monte Verde,Sur,maiz,0,kilos,0.0,Sofia,normal
+2026-05-13,La Esperanza,Sur,huevo,89.79,unidades,66034.89,Carlos,transporte limitado
+2026-05-14,La Rivera,Oriente,leche,39.11,litros,22617.67,Luis,alta demanda
+2026-05-15,Santa Clara,Oriente,huevo,155.6,unidades,148604.86,Luis,normal
+2026-05-16,El Porvenir,Occidente,leche,46.86,litros,32853.97,Valentina,normal
+2026-05-17,Monte Verde,Oriente,leche,41.45,litros,16863.28,Ana,baja produccion
+2026-05-18,Santa Clara,Occidente,yuca,135.36,kilos,54556.28,Valentina,baja produccion
+2026-05-19,El Progreso,Norte,maiz,157.75,kilos,79728.9,Andres,alta demanda
+2026-05-20,La Esperanza,Sur,huevo,76.76,unidades,61885.11,Maria,alta demanda
+2026-05-21,Monte Verde,Sur,huevo,95.34,unidades,89545.81,Carlos,normal
+2026-05-22,La Rivera,Occidente,huevo,85.28,unidades,37870.66,Valentina,transporte limitado
+2026-05-23,Buenos Aires,Sur,maiz,137.73,kilos,51706.21,Sofia,transporte limitado
+2026-05-24,La Union,Sur,maiz,159.28,kilos,94797.73,Andres,sin novedad
+2026-05-25,El Progreso,Oriente,leche,45.36,litros,45453.1,Maria,normal
+2026-05-26,Buenos Aires,Sur,leche,29.29,litros,20458.2,Carlos,baja produccion
+2026-05-27,La Rivera,Occidente,huevo,127.23,unidades,137386.1,Ana,baja produccion
+2026-05-28,La Esperanza,Norte,yuca,85.55,kilos,100833.33,Sofia,alta demanda
+2026-05-29,La Esperanza,Norte,leche,32.38,litros,40302.97,Andres,normal
+2026-05-30,La Rivera,Oriente,huevo,72.36,unidades,99527.02,Luis,alta demanda
+2026-05-31,El Progreso,Norte,maiz,115.8,kilos,108704.0,Ana,lluvia
+2026-06-01,La Rivera,Oriente,yuca,133.49,kilos,49296.63,Andres,sin novedad
+2026-06-02,La Rivera,Oriente,maiz,259.28,kilos,165854.21,Ana,alta demanda
+2026-06-03,La Esperanza,Norte,yuca,93.84,kilos,71551.96,Maria,sin novedad
+2026-06-04,El Porvenir,Oriente,maiz,155.12,kilos,123752.91,Sofia,alta demanda
+2026-06-05,Santa Clara,Sur,maiz,197.45,kilos,210926.17,Carlos,transporte limitado
+2026-06-06,Santa Clara,Oriente,huevo,179.4,unidades,90132.36,Maria,normal
+2026-06-07,El Progreso,Occidente,maiz,137.17,kilos,152729.67,Andres,alta demanda
+2026-06-08,La Rivera,Sur,huevo,144.39,unidades,147088.62,Sofia,lluvia
+2026-06-09,El Progreso,Sur,maiz,113.25,kilos,112409.76,Sofia,baja produccion
+2026-04-01,Monte Verde,Sur,maiz,203.73,kilos,218510.28,Mateo,baja produccion
+2026-04-02,La Union,Sur,yuca,87.6,kilos,74244.44,Maria,lluvia
+2026-04-03,La Esperanza,Sur,huevo,0,unidades,0.0,Valentina,sin novedad
+2026-04-04,Monte Verde,Oriente,maiz,91.9,kilos,127273.14,Mateo,alta demanda
+2026-04-05,Monte Verde,Oriente,huevo,96.68,unidades,108484.47,Valentina,alta demanda
+2026-04-06,La Esperanza,Occidente,leche,34.71,litros,13694.37,Carlos,sin novedad
+2026-04-07,La Esperanza,Occidente,huevo,112.26,unidades,45101.6,Sofia,alta demanda
+2026-04-08,La Rivera,Sur,yuca,129.2,kilos,128397.8,Ana,alta demanda
+2026-04-09,La Union,Occidente,leche,44.74,litros,52241.45,Maria,alta demanda
+2026-04-10,Buenos Aires,Occidente,huevo,43.49,unidades,56165.09,Carlos,normal
+2026-04-11,La Rivera,Norte,yuca,163.76,kilos,194270.21,Luis,normal
+2026-04-12,La Union,Occidente,yuca,72.8,kilos,81042.24,Maria,baja produccion
+2026-04-13,El Porvenir,Sur,leche,46.43,litros,43819.06,Maria,lluvia
+2026-04-14,Santa Clara,Oriente,leche,33.52,litros,38784.72,Mateo,sin novedad
+2026-04-15,Santa Clara,Norte,leche,51.25,litros,18127.61,Sofia,alta demanda
+2026-04-16,La Union,Sur,huevo,0,unidades,0.0,Carlos,baja produccion
+2026-04-17,La Union,Oriente,huevo,97.42,unidades,95482.04,Carlos,baja produccion
+2026-04-18,Monte Verde,Norte,leche,24.84,litros,17797.14,Maria,sin novedad
+2026-04-19,La Rivera,Sur,yuca,198.06,kilos,156032.61,Maria,sin novedad
+2026-04-20,La Rivera,Norte,maiz,253.93,kilos,184911.34,Ana,transporte limitado
+2026-04-21,Buenos Aires,Oriente,yuca,194.63,kilos,223116.84,Luis,alta demanda
+2026-04-22,Santa Clara,Sur,leche,43.7,litros,39478.81,Carlos,baja produccion
+2026-04-23,La Esperanza,Occidente,leche,39.14,litros,35437.12,Luis,sin novedad
+2026-04-24,La Rivera,Sur,huevo,125.24,unidades,112924.0,Andres,baja produccion
+2026-04-25,La Union,Sur,huevo,108.95,unidades,107847.0,Sofia,normal
+2026-04-26,El Progreso,Occidente,leche,35.2,litros,39576.83,Carlos,alta demanda
+2026-04-27,La Esperanza,Oriente,yuca,112.45,kilos,64428.77,Carlos,transporte limitado
+2026-04-28,El Progreso,Oriente,yuca,105.04,kilos,121361.56,Luis,transporte limitado
+2026-04-29,El Porvenir,Occidente,leche,48.79,litros,59792.95,Mateo,normal
+2026-04-30,Santa Clara,Occidente,huevo,61.75,unidades,77711.48,Andres,alta demanda
+2026-05-01,La Esperanza,Sur,yuca,144.74,kilos,135033.17,Ana,baja produccion
+2026-05-02,Buenos Aires,Occidente,yuca,69.93,kilos,86208.03,Andres,sin novedad
+2026-05-03,Santa Clara,Oriente,huevo,66.23,unidades,77585.87,Sofia,sin novedad
+2026-05-04,La Esperanza,Oriente,yuca,122.08,kilos,73189.93,Mateo,lluvia
+2026-05-05,La Rivera,Occidente,maiz,100.2,kilos,116901.33,Luis,baja produccion
+2026-05-06,La Esperanza,Oriente,huevo,166.69,unidades,117870.12,Mateo,transporte limitado
+2026-05-07,Santa Clara,Sur,leche,48.42,litros,51351.98,Maria,sin novedad
+2026-05-08,La Esperanza,Norte,huevo,94.26,unidades,44455.64,Sofia,sin novedad
+2026-05-09,El Progreso,Norte,yuca,130.03,kilos,116585.76,Sofia,baja produccion
+2026-05-10,La Rivera,Occidente,maiz,137.76,kilos,88232.8,Andres,sin novedad
+2026-05-11,El Progreso,Sur,yuca,82.4,kilos,30160.01,Luis,baja produccion
+2026-05-12,Buenos Aires,Sur,yuca,100.66,kilos,120208.47,Carlos,normal
+2026-05-13,La Rivera,Norte,yuca,141.09,kilos,53676.61,Ana,alta demanda
+2026-05-14,La Esperanza,Oriente,leche,33.78,litros,32966.83,Mateo,transporte limitado
+2026-05-15,Buenos Aires,Sur,maiz,208.32,kilos,189604.36,Mateo,normal
+2026-05-16,La Union,Occidente,leche,34.86,litros,38197.03,Mateo,lluvia
+2026-05-17,Monte Verde,Sur,maiz,235.0,kilos,307498.6,Valentina,sin novedad
+2026-05-18,Buenos Aires,Occidente,yuca,0,kilos,0.0,Andres,alta demanda
+2026-05-19,Santa Clara,Occidente,yuca,175.19,kilos,84750.56,Luis,sin novedad
+2026-05-20,El Progreso,Occidente,yuca,143.42,kilos,95693.27,Mateo,baja produccion
+2026-05-21,El Porvenir,Norte,maiz,191.76,kilos,263207.15,Valentina,transporte limitado
+2026-05-22,Monte Verde,Sur,huevo,149.8,unidades,176268.63,Carlos,sin novedad
+2026-05-23,El Progreso,Occidente,huevo,56.01,unidades,38739.15,Luis,lluvia
+2026-05-24,La Rivera,Oriente,huevo,49.75,unidades,59937.31,Valentina,alta demanda
+2026-05-25,La Esperanza,Sur,leche,26.05,litros,25002.95,Ana,sin novedad
+2026-05-26,Santa Clara,Sur,huevo,114.38,unidades,109441.98,Carlos,sin novedad
+2026-05-27,Buenos Aires,Oriente,yuca,145.54,kilos,97479.44,Valentina,normal
+2026-05-28,La Esperanza,Norte,huevo,158.67,unidades,65932.32,Ana,sin novedad
+2026-05-29,Buenos Aires,Oriente,leche,49.87,litros,29772.55,Valentina,sin novedad
+2026-05-30,El Porvenir,Sur,huevo,93.42,unidades,97681.07,Mateo,lluvia
+2026-05-31,El Porvenir,Sur,yuca,185.99,kilos,259889.19,Maria,normal
+2026-06-01,El Progreso,Norte,leche,23.33,litros,24282.4,Maria,lluvia
+2026-06-02,El Porvenir,Occidente,huevo,165.1,unidades,219059.07,Maria,baja produccion
+2026-06-03,El Porvenir,Occidente,huevo,93.86,unidades,74713.54,Ana,sin novedad
+2026-06-04,Monte Verde,Occidente,yuca,121.63,kilos,89436.79,Ana,sin novedad
+2026-06-05,Buenos Aires,Occidente,leche,39.47,litros,17132.6,Sofia,baja produccion
+2026-06-06,El Progreso,Oriente,leche,27.07,litros,28340.23,Luis,baja produccion
+2026-06-07,La Esperanza,Oriente,yuca,0,kilos,0.0,Mateo,alta demanda
+2026-06-08,Buenos Aires,Oriente,yuca,103.38,kilos,136359.02,Sofia,normal
+2026-06-09,La Union,Oriente,maiz,183.11,kilos,120182.58,Ana,alta demanda
+2026-04-01,El Progreso,Oriente,maiz,171.01,kilos,109744.17,Maria,transporte limitado
+2026-04-02,La Rivera,Occidente,leche,45.43,litros,59315.14,Maria,transporte limitado
+2026-04-03,Santa Clara,Oriente,yuca,177.38,kilos,95758.53,Ana,normal
+2026-04-04,Santa Clara,Sur,maiz,230.77,kilos,180830.28,Valentina,sin novedad
+2026-04-05,La Union,Norte,maiz,117.95,kilos,84019.27,Sofia,normal
+2026-04-06,Santa Clara,Occidente,huevo,95.82,unidades,108607.95,Carlos,sin novedad
+2026-04-07,El Porvenir,Occidente,huevo,76.77,unidades,61912.78,Sofia,alta demanda
+2026-04-08,Buenos Aires,Oriente,leche,21.6,litros,15584.82,Valentina,transporte limitado
+2026-04-09,La Rivera,Sur,yuca,180.35,kilos,173746.61,Mateo,sin novedad
+2026-04-10,Monte Verde,Norte,yuca,161.66,kilos,109756.36,Ana,normal
+2026-04-11,La Esperanza,Oriente,huevo,53.68,unidades,43923.09,Carlos,transporte limitado
+2026-04-12,Monte Verde,Norte,leche,18.88,litros,25212.93,Carlos,sin novedad
+2026-04-13,El Progreso,Norte,leche,49.69,litros,51638.56,Maria,sin novedad
+2026-04-14,Santa Clara,Oriente,yuca,104.19,kilos,44749.59,Mateo,alta demanda
+2026-04-15,Buenos Aires,Occidente,yuca,84.29,kilos,98278.87,Valentina,transporte limitado
+2026-04-16,La Esperanza,Sur,yuca,203.34,kilos,165234.81,Mateo,baja produccion
+2026-04-17,El Porvenir,Sur,maiz,196.19,kilos,180036.45,Valentina,baja produccion
+2026-04-18,El Progreso,Occidente,huevo,140.16,unidades,59787.42,Sofia,normal
+2026-04-19,La Union,Oriente,maiz,0,kilos,0.0,Valentina,lluvia
+2026-04-20,Buenos Aires,Occidente,huevo,120.45,unidades,161030.4,Mateo,alta demanda
+2026-04-21,El Porvenir,Norte,leche,0,litros,0.0,Mateo,baja produccion
+2026-04-22,Buenos Aires,Oriente,yuca,162.28,kilos,164533.44,Luis,baja produccion
+2026-04-23,Buenos Aires,Sur,leche,49.12,litros,32146.91,Carlos,baja produccion
+2026-04-24,La Esperanza,Oriente,huevo,132.5,unidades,100648.32,Luis,alta demanda
+2026-04-25,El Progreso,Occidente,huevo,142.95,unidades,79015.23,Carlos,alta demanda
+2026-04-26,El Progreso,Norte,yuca,134.95,kilos,162259.43,Ana,transporte limitado
+2026-04-27,La Esperanza,Sur,yuca,178.17,kilos,84469.77,Mateo,sin novedad
+2026-04-28,Monte Verde,Norte,leche,19.36,litros,20067.09,Mateo,lluvia
+2026-04-29,Santa Clara,Occidente,leche,24.37,litros,16393.8,Luis,baja produccion
+2026-04-30,Santa Clara,Norte,leche,48.26,litros,42082.75,Carlos,lluvia
+2026-05-01,El Porvenir,Norte,yuca,181.73,kilos,193055.0,Andres,sin novedad
+2026-05-02,Santa Clara,Oriente,yuca,185.46,kilos,213731.39,Maria,normal
+2026-05-03,El Progreso,Occidente,yuca,81.19,kilos,87775.37,Maria,lluvia
+2026-05-04,La Esperanza,Norte,maiz,97.99,kilos,97310.3,Maria,alta demanda
+2026-05-05,El Progreso,Occidente,leche,18.27,litros,19952.27,Sofia,sin novedad
+2026-05-06,La Union,Sur,maiz,117.11,kilos,105310.14,Valentina,lluvia
+2026-05-07,La Esperanza,Oriente,maiz,209.1,kilos,92510.49,Sofia,alta demanda
+2026-05-08,La Esperanza,Sur,maiz,114.54,kilos,157564.78,Andres,alta demanda
+2026-05-09,Monte Verde,Occidente,yuca,67.96,kilos,34433.86,Mateo,lluvia
+2026-05-10,Santa Clara,Oriente,leche,20.0,litros,11401.38,Sofia,baja produccion
+2026-05-11,La Union,Norte,leche,21.86,litros,19985.04,Maria,alta demanda
+2026-05-12,El Progreso,Occidente,leche,51.12,litros,49706.12,Andres,lluvia
+2026-05-13,Buenos Aires,Sur,maiz,220.22,kilos,99752.47,Valentina,alta demanda
+2026-05-14,Monte Verde,Sur,leche,35.43,litros,45528.02,Maria,baja produccion
+2026-05-15,La Union,Oriente,maiz,149.72,kilos,165562.21,Andres,lluvia
+2026-05-16,Buenos Aires,Occidente,maiz,85.78,kilos,55296.74,Luis,alta demanda
+2026-05-17,El Porvenir,Sur,maiz,216.86,kilos,143110.16,Maria,baja produccion
+2026-05-18,Monte Verde,Occidente,leche,33.23,litros,41713.92,Carlos,alta demanda
+2026-05-19,La Rivera,Occidente,leche,45.01,litros,27410.5,Andres,baja produccion
+2026-05-20,Monte Verde,Norte,maiz,244.48,kilos,192811.71,Ana,alta demanda
+2026-05-21,La Esperanza,Occidente,huevo,114.36,unidades,135850.35,Luis,alta demanda
+2026-05-22,Monte Verde,Sur,leche,0,litros,0.0,Carlos,transporte limitado
+2026-05-23,La Rivera,Sur,maiz,196.58,kilos,167834.52,Sofia,sin novedad
+2026-05-24,La Union,Sur,leche,54.13,litros,26824.4,Valentina,transporte limitado
+2026-05-25,La Union,Norte,leche,49.83,litros,64186.33,Andres,transporte limitado
+2026-05-26,El Porvenir,Norte,yuca,164.71,kilos,157131.83,Carlos,baja produccion
+2026-05-27,Buenos Aires,Norte,leche,37.05,litros,27127.64,Ana,alta demanda
+2026-05-28,Buenos Aires,Sur,huevo,126.68,unidades,67651.02,Luis,lluvia
+2026-05-29,Buenos Aires,Sur,maiz,177.13,kilos,199138.24,Carlos,transporte limitado
+2026-05-30,Buenos Aires,Oriente,yuca,135.53,kilos,55185.51,Andres,alta demanda
+2026-05-31,La Union,Occidente,leche,35.4,litros,43069.34,Sofia,baja produccion
+2026-06-01,Buenos Aires,Sur,leche,24.97,litros,11028.6,Valentina,transporte limitado
+2026-06-02,El Progreso,Sur,leche,24.1,litros,12178.98,Maria,baja produccion
+2026-06-03,La Esperanza,Oriente,yuca,122.48,kilos,162691.11,Mateo,alta demanda
+2026-06-04,La Union,Oriente,leche,28.79,litros,36430.39,Carlos,alta demanda
+2026-06-05,Buenos Aires,Occidente,yuca,132.92,kilos,120515.18,Mateo,transporte limitado
+2026-06-06,Santa Clara,Norte,yuca,85.76,kilos,73621.12,Sofia,lluvia
+2026-06-07,Buenos Aires,Sur,yuca,128.39,kilos,169518.22,Sofia,lluvia
+2026-06-08,Santa Clara,Occidente,maiz,122.82,kilos,83819.38,Maria,transporte limitado
+2026-06-09,Buenos Aires,Sur,maiz,116.93,kilos,122639.8,Andres,transporte limitado
+2026-04-01,La Union,Sur,maiz,176.06,kilos,66228.75,Mateo,alta demanda
+2026-04-02,Buenos Aires,Oriente,maiz,80.77,kilos,111008.76,Andres,alta demanda
+2026-04-03,La Rivera,Norte,maiz,223.92,kilos,295217.63,Andres,sin novedad
+2026-04-04,La Union,Sur,leche,23.16,litros,15597.94,Valentina,alta demanda
+2026-04-05,Buenos Aires,Oriente,leche,30.08,litros,16691.61,Carlos,lluvia
+2026-04-06,La Esperanza,Occidente,leche,37.92,litros,40010.74,Luis,lluvia
+2026-04-07,La Union,Occidente,yuca,150.48,kilos,61523.75,Andres,lluvia
+2026-04-08,El Porvenir,Occidente,yuca,0,kilos,0.0,Sofia,baja produccion
+2026-04-09,El Progreso,Oriente,maiz,211.01,kilos,293773.82,Mateo,lluvia
+2026-04-10,El Porvenir,Oriente,huevo,59.54,unidades,26220.34,Carlos,alta demanda
+2026-04-11,Buenos Aires,Occidente,leche,52.53,litros,39111.79,Ana,sin novedad
+2026-04-12,La Rivera,Sur,huevo,64.49,unidades,61027.67,Maria,lluvia
+2026-04-13,El Porvenir,Occidente,yuca,143.08,kilos,174208.59,Sofia,baja produccion
+2026-04-14,La Union,Norte,maiz,0,kilos,0.0,Mateo,sin novedad
+2026-04-15,La Rivera,Norte,huevo,65.11,unidades,66869.61,Ana,transporte limitado
+2026-04-16,La Union,Oriente,leche,40.16,litros,34317.13,Valentina,sin novedad
+2026-04-17,La Union,Sur,leche,31.81,litros,11719.51,Sofia,baja produccion
+2026-04-18,La Esperanza,Norte,maiz,137.54,kilos,67707.13,Maria,transporte limitado
+2026-04-19,Buenos Aires,Norte,huevo,129.07,unidades,51776.51,Sofia,baja produccion
+2026-04-20,Monte Verde,Oriente,maiz,217.64,kilos,114368.23,Andres,sin novedad
+2026-04-21,La Rivera,Sur,yuca,162.82,kilos,73370.78,Andres,normal
+2026-04-22,Santa Clara,Norte,yuca,115.95,kilos,82014.77,Maria,lluvia
+2026-04-23,Santa Clara,Occidente,maiz,229.68,kilos,215115.53,Luis,alta demanda
+2026-04-24,El Progreso,Oriente,leche,48.3,litros,41223.77,Sofia,lluvia
+2026-04-25,La Union,Sur,yuca,85.83,kilos,97132.37,Luis,lluvia
+2026-04-26,Santa Clara,Norte,maiz,135.34,kilos,186791.54,Valentina,normal
+2026-04-27,La Esperanza,Occidente,huevo,146.03,unidades,67642.3,Ana,normal
+2026-04-28,La Rivera,Sur,leche,20.45,litros,23359.58,Luis,baja produccion
+2026-04-29,Monte Verde,Oriente,maiz,0,kilos,0.0,Sofia,transporte limitado
+2026-04-30,Santa Clara,Sur,maiz,170.88,kilos,206861.49,Ana,sin novedad
+2026-05-01,Monte Verde,Sur,yuca,85.77,kilos,30409.36,Luis,baja produccion
+2026-05-02,La Union,Sur,yuca,164.72,kilos,174142.31,Luis,transporte limitado
+2026-05-03,El Porvenir,Norte,huevo,70.0,unidades,32794.14,Andres,alta demanda
+2026-05-04,El Progreso,Norte,maiz,169.25,kilos,110466.91,Ana,transporte limitado
+2026-05-05,La Union,Sur,leche,32.24,litros,36204.98,Mateo,baja produccion
+2026-05-06,El Porvenir,Oriente,yuca,207.74,kilos,259594.49,Mateo,lluvia
+2026-05-07,La Esperanza,Norte,huevo,134.09,unidades,120519.49,Luis,lluvia
+2026-05-08,El Porvenir,Norte,huevo,137.31,unidades,154954.85,Maria,transporte limitado
+2026-05-09,Monte Verde,Occidente,yuca,90.04,kilos,69736.29,Carlos,sin novedad
+2026-05-10,La Union,Oriente,yuca,174.72,kilos,170060.65,Valentina,alta demanda
+2026-05-11,El Porvenir,Oriente,huevo,111.6,unidades,92334.1,Luis,alta demanda
+2026-05-12,La Union,Norte,maiz,193.11,kilos,87784.63,Ana,alta demanda
+2026-05-13,La Esperanza,Norte,maiz,148.87,kilos,75979.3,Luis,sin novedad
+2026-05-14,La Union,Oriente,huevo,68.27,unidades,59037.36,Sofia,baja produccion
+2026-05-15,La Esperanza,Oriente,leche,54.66,litros,25968.46,Mateo,alta demanda
+2026-05-16,La Union,Sur,huevo,45.04,unidades,46948.87,Sofia,alta demanda
+2026-05-17,El Porvenir,Occidente,maiz,136.24,kilos,156977.32,Mateo,alta demanda
+2026-05-18,Santa Clara,Oriente,leche,32.48,litros,44478.58,Andres,transporte limitado
+2026-05-19,La Esperanza,Oriente,leche,39.85,litros,29279.01,Ana,alta demanda
+2026-05-20,El Progreso,Sur,huevo,88.32,unidades,63487.31,Carlos,lluvia
+2026-05-21,La Rivera,Sur,leche,51.68,litros,34633.77,Andres,normal
+2026-05-22,Buenos Aires,Oriente,leche,35.05,litros,33173.14,Valentina,normal
+2026-05-23,La Union,Occidente,leche,54.47,litros,41387.17,Luis,normal
+2026-05-24,Monte Verde,Oriente,yuca,134.51,kilos,141337.32,Maria,transporte limitado
+2026-05-25,El Porvenir,Oriente,maiz,169.45,kilos,199359.13,Carlos,transporte limitado
+2026-05-26,La Esperanza,Norte,yuca,209.43,kilos,122973.17,Luis,baja produccion
+2026-05-27,Buenos Aires,Oriente,yuca,70.09,kilos,59508.64,Carlos,normal
+2026-05-28,La Rivera,Oriente,yuca,124.94,kilos,69976.5,Valentina,baja produccion
+2026-05-29,La Union,Occidente,maiz,238.56,kilos,212803.95,Maria,lluvia
+2026-05-30,La Union,Norte,yuca,200.57,kilos,199595.91,Valentina,baja produccion
+2026-05-31,Monte Verde,Occidente,yuca,129.37,kilos,146673.91,Sofia,alta demanda
+2026-06-01,Buenos Aires,Sur,leche,41.46,litros,26131.47,Sofia,transporte limitado
+2026-06-02,Monte Verde,Occidente,huevo,73.39,unidades,27821.37,Sofia,alta demanda
+2026-06-03,El Porvenir,Norte,huevo,130.57,unidades,67547.31,Maria,transporte limitado
+2026-06-04,La Rivera,Norte,maiz,195.97,kilos,217251.89,Ana,normal
+2026-06-05,Buenos Aires,Norte,yuca,190.08,kilos,147760.06,Andres,alta demanda
+2026-06-06,Santa Clara,Occidente,maiz,100.15,kilos,133157.66,Sofia,normal
+2026-06-07,Monte Verde,Sur,leche,46.61,litros,57048.35,Valentina,alta demanda
+2026-06-08,Monte Verde,Oriente,maiz,99.23,kilos,63336.0,Valentina,baja produccion
+2026-06-09,La Esperanza,Occidente,huevo,114.69,unidades,53744.81,Valentina,sin novedad
+2026-04-01,Monte Verde,Oriente,yuca,191.92,kilos,140321.91,Andres,normal
+2026-04-02,La Esperanza,Oriente,leche,43.56,litros,26208.29,Valentina,sin novedad
+2026-04-03,Buenos Aires,Occidente,leche,37.79,litros,30780.82,Ana,transporte limitado
+2026-04-04,La Rivera,Occidente,leche,52.64,litros,34863.16,Maria,sin novedad
+2026-04-05,Buenos Aires,Occidente,huevo,150.5,unidades,65331.94,Mateo,sin novedad
+2026-04-06,El Porvenir,Oriente,yuca,167.61,kilos,203018.18,Maria,baja produccion
+2026-04-07,El Progreso,Occidente,yuca,123.13,kilos,113909.3,Andres,sin novedad
+2026-04-08,La Esperanza,Norte,leche,41.73,litros,34033.95,Maria,alta demanda
+2026-04-09,Monte Verde,Occidente,yuca,107.06,kilos,55212.29,Maria,transporte limitado
+2026-04-10,La Union,Oriente,huevo,162.29,unidades,86363.11,Andres,lluvia
+2026-04-11,El Progreso,Norte,huevo,91.46,unidades,68246.17,Carlos,normal
+2026-04-12,Monte Verde,Norte,leche,54.04,litros,58704.96,Maria,alta demanda
+2026-04-13,El Porvenir,Norte,yuca,82.39,kilos,43553.75,Luis,sin novedad
+2026-04-14,El Porvenir,Sur,huevo,155.82,unidades,91265.04,Carlos,transporte limitado
+2026-04-15,La Rivera,Oriente,huevo,93.49,unidades,53002.87,Carlos,sin novedad
+2026-04-16,Monte Verde,Sur,huevo,65.25,unidades,24808.82,Sofia,baja produccion
+2026-04-17,La Union,Occidente,maiz,146.53,kilos,121777.03,Ana,lluvia
+2026-04-18,Buenos Aires,Norte,huevo,136.16,unidades,148942.13,Sofia,normal
+2026-04-19,La Esperanza,Norte,leche,30.32,litros,39526.3,Ana,transporte limitado
+2026-04-20,El Porvenir,Sur,yuca,206.63,kilos,101011.11,Ana,transporte limitado
+2026-04-21,Santa Clara,Occidente,huevo,170.25,unidades,83169.77,Andres,lluvia
+2026-04-22,La Rivera,Oriente,leche,29.59,litros,25866.72,Sofia,alta demanda
+2026-04-23,La Rivera,Occidente,yuca,151.94,kilos,95258.15,Andres,lluvia
+2026-04-24,Buenos Aires,Norte,huevo,146.91,unidades,183003.63,Mateo,lluvia
+2026-04-25,Santa Clara,Occidente,leche,26.5,litros,16515.73,Mateo,normal
+2026-04-26,La Union,Occidente,leche,34.34,litros,32241.73,Mateo,normal
+2026-04-27,Santa Clara,Oriente,leche,30.94,litros,20059.09,Maria,baja produccion
+2026-04-28,Monte Verde,Sur,leche,37.46,litros,29490.01,Luis,alta demanda
+2026-04-29,El Progreso,Oriente,yuca,63.89,kilos,68021.85,Valentina,baja produccion
+2026-04-30,El Progreso,Occidente,yuca,83.07,kilos,101530.99,Mateo,sin novedad
+2026-05-01,La Rivera,Oriente,leche,30.19,litros,30295.15,Mateo,sin novedad
+2026-05-02,Santa Clara,Norte,maiz,235.39,kilos,152321.27,Ana,baja produccion
+2026-05-03,El Porvenir,Norte,leche,32.76,litros,44661.77,Valentina,normal
+2026-05-04,Monte Verde,Norte,maiz,149.93,kilos,154356.89,Maria,transporte limitado
+2026-05-05,La Union,Oriente,huevo,143.02,unidades,185771.68,Maria,sin novedad
+2026-05-06,El Progreso,Oriente,yuca,136.9,kilos,175188.7,Mateo,baja produccion
+2026-05-07,El Porvenir,Occidente,leche,45.99,litros,45739.87,Valentina,normal
+2026-05-08,La Esperanza,Occidente,yuca,205.99,kilos,212167.88,Maria,baja produccion
+2026-05-09,El Progreso,Sur,yuca,130.23,kilos,155184.92,Sofia,lluvia
+2026-05-10,La Rivera,Norte,maiz,174.16,kilos,69683.97,Luis,baja produccion
+2026-05-11,El Progreso,Oriente,huevo,97.82,unidades,108220.76,Sofia,transporte limitado
+2026-05-12,El Progreso,Occidente,leche,22.22,litros,11966.13,Maria,normal
+2026-05-13,El Progreso,Occidente,huevo,162.75,unidades,157309.07,Mateo,baja produccion
+2026-05-14,La Rivera,Norte,yuca,205.01,kilos,112048.49,Maria,sin novedad
+2026-05-15,La Rivera,Sur,leche,0,litros,0.0,Ana,sin novedad
+2026-05-16,La Union,Oriente,huevo,136.85,unidades,186676.26,Mateo,baja produccion
+2026-05-17,Buenos Aires,Norte,huevo,152.65,unidades,75083.9,Carlos,normal
+2026-05-18,Monte Verde,Sur,leche,25.74,litros,26569.52,Valentina,normal
+2026-05-19,La Rivera,Occidente,huevo,60.74,unidades,28686.39,Maria,alta demanda
+2026-05-20,La Union,Norte,leche,49.81,litros,27963.6,Valentina,transporte limitado
+2026-05-21,La Esperanza,Oriente,leche,41.33,litros,56971.8,Mateo,normal
+2026-05-22,La Union,Sur,huevo,108.05,unidades,107193.17,Mateo,sin novedad
+2026-05-23,La Esperanza,Occidente,leche,33.61,litros,14004.82,Valentina,normal
+2026-05-24,La Union,Occidente,yuca,127.25,kilos,66093.66,Carlos,transporte limitado
+2026-05-25,La Union,Sur,maiz,171.37,kilos,183232.71,Mateo,transporte limitado
+2026-05-26,El Porvenir,Sur,huevo,156.63,unidades,175631.39,Mateo,baja produccion
+2026-05-27,Monte Verde,Sur,yuca,163.6,kilos,140210.8,Maria,lluvia
+2026-05-28,La Union,Sur,leche,47.36,litros,41127.96,Carlos,baja produccion
+2026-05-29,La Esperanza,Norte,leche,31.28,litros,33181.02,Maria,normal
+2026-05-30,Buenos Aires,Oriente,huevo,55.96,unidades,52606.91,Mateo,transporte limitado
+2026-05-31,Buenos Aires,Norte,leche,46.49,litros,60024.8,Luis,alta demanda
+2026-06-01,La Union,Norte,leche,54.06,litros,53526.89,Luis,baja produccion
+2026-06-02,El Progreso,Oriente,maiz,193.39,kilos,252670.82,Maria,sin novedad
+2026-06-03,La Union,Sur,huevo,142.56,unidades,146758.05,Andres,normal
+2026-06-04,Monte Verde,Oriente,huevo,175.75,unidades,62728.15,Mateo,transporte limitado
+2026-06-05,Santa Clara,Sur,leche,27.84,litros,21875.53,Carlos,baja produccion
+2026-06-06,El Porvenir,Oriente,maiz,104.84,kilos,137751.48,Mateo,normal
+2026-06-07,La Union,Norte,maiz,218.63,kilos,195283.84,Luis,transporte limitado
+2026-06-08,Buenos Aires,Sur,huevo,177.47,unidades,73568.72,Ana,baja produccion
+2026-06-09,La Esperanza,Oriente,yuca,122.9,kilos,133448.5,Sofia,transporte limitado
+2026-04-01,La Esperanza,Occidente,yuca,195.03,kilos,98335.08,Valentina,sin novedad
+2026-04-02,Monte Verde,Sur,huevo,137.65,unidades,161138.77,Valentina,transporte limitado
+2026-04-03,El Progreso,Oriente,leche,37.89,litros,41861.8,Maria,lluvia
+2026-04-04,El Progreso,Oriente,yuca,138.2,kilos,71591.57,Ana,lluvia
+2026-04-05,La Rivera,Oriente,huevo,178.17,unidades,73574.06,Andres,sin novedad
+2026-04-06,Buenos Aires,Norte,leche,19.77,litros,9509.12,Sofia,alta demanda
+2026-04-07,Buenos Aires,Oriente,maiz,224.97,kilos,212344.03,Carlos,transporte limitado
+2026-04-08,La Rivera,Sur,maiz,208.58,kilos,127236.93,Andres,transporte limitado
+2026-04-09,La Union,Norte,leche,23.42,litros,18329.79,Luis,alta demanda
+2026-04-10,Santa Clara,Occidente,huevo,70.07,unidades,74320.7,Valentina,transporte limitado
+2026-04-11,La Union,Sur,huevo,179.51,unidades,241478.83,Valentina,lluvia
+2026-04-12,Santa Clara,Sur,huevo,139.56,unidades,152085.64,Luis,alta demanda
+2026-04-13,La Union,Occidente,leche,45.62,litros,33658.37,Luis,normal
+2026-04-14,El Progreso,Oriente,yuca,145.76,kilos,74478.95,Andres,transporte limitado
+2026-04-15,La Rivera,Norte,yuca,132.89,kilos,66344.91,Valentina,transporte limitado
+2026-04-16,La Rivera,Norte,maiz,112.95,kilos,39779.87,Andres,normal
+2026-04-17,El Porvenir,Occidente,huevo,120.23,unidades,155734.12,Valentina,sin novedad
+2026-04-18,Santa Clara,Sur,maiz,170.86,kilos,140519.68,Mateo,sin novedad
+2026-04-19,Buenos Aires,Occidente,leche,47.59,litros,37125.42,Carlos,transporte limitado
+2026-04-20,La Esperanza,Oriente,huevo,143.03,unidades,180110.71,Ana,baja produccion
+2026-04-21,El Progreso,Sur,leche,25.12,litros,24007.14,Ana,alta demanda
+2026-04-22,La Esperanza,Sur,leche,42.36,litros,57630.59,Sofia,lluvia
+2026-04-23,La Union,Occidente,leche,47.86,litros,36942.55,Ana,normal
+2026-04-24,Buenos Aires,Oriente,huevo,0,unidades,0.0,Valentina,normal
+2026-04-25,El Progreso,Sur,leche,38.05,litros,20615.58,Luis,transporte limitado
+2026-04-26,El Porvenir,Oriente,maiz,90.6,kilos,48972.08,Ana,alta demanda
+2026-04-27,El Progreso,Norte,yuca,81.37,kilos,50517.02,Luis,lluvia
+2026-04-28,Monte Verde,Oriente,maiz,168.74,kilos,127280.77,Luis,normal
+2026-04-29,Buenos Aires,Norte,huevo,117.44,unidades,44668.51,Carlos,transporte limitado
+2026-04-30,El Progreso,Occidente,maiz,217.34,kilos,104725.26,Valentina,normal
+2026-05-01,Monte Verde,Occidente,maiz,147.19,kilos,172377.87,Valentina,normal
+2026-05-02,La Esperanza,Norte,huevo,174.56,unidades,180793.85,Maria,normal
+2026-05-03,La Union,Sur,yuca,149.68,kilos,112134.45,Andres,baja produccion
+2026-05-04,La Rivera,Occidente,leche,23.97,litros,10149.66,Luis,sin novedad
+2026-05-05,El Progreso,Oriente,maiz,210.51,kilos,267809.4,Carlos,sin novedad
+2026-05-06,Buenos Aires,Oriente,yuca,206.95,kilos,131757.57,Andres,lluvia
+2026-05-07,La Union,Occidente,yuca,62.38,kilos,64174.39,Ana,normal
+2026-05-08,La Esperanza,Norte,maiz,154.37,kilos,168026.29,Valentina,sin novedad
+2026-05-09,El Progreso,Oriente,leche,51.03,litros,41713.74,Luis,alta demanda
+2026-05-10,Buenos Aires,Norte,huevo,64.81,unidades,70116.75,Ana,alta demanda
+2026-05-11,Buenos Aires,Oriente,maiz,160.02,kilos,59330.74,Sofia,lluvia
+2026-05-12,El Progreso,Norte,yuca,181.26,kilos,249980.21,Andres,transporte limitado
+2026-05-13,La Union,Oriente,maiz,81.28,kilos,82934.69,Luis,baja produccion
+2026-05-14,La Union,Norte,maiz,179.32,kilos,169276.72,Maria,baja produccion
+2026-05-15,Santa Clara,Sur,leche,22.71,litros,28347.82,Sofia,sin novedad
+2026-05-16,La Esperanza,Norte,yuca,162.1,kilos,57067.74,Valentina,transporte limitado
+2026-05-17,El Porvenir,Norte,huevo,78.36,unidades,65815.82,Andres,sin novedad
+2026-05-18,Monte Verde,Occidente,leche,28.28,litros,23226.49,Ana,lluvia
+2026-05-19,Buenos Aires,Occidente,leche,50.56,litros,70267.17,Carlos,normal
+2026-05-20,Monte Verde,Norte,maiz,109.61,kilos,110409.54,Luis,alta demanda
+2026-05-21,El Porvenir,Sur,leche,39.92,litros,27984.63,Sofia,normal
+2026-05-22,La Union,Norte,maiz,252.58,kilos,306307.68,Carlos,baja produccion
+2026-05-23,La Union,Norte,leche,41.14,litros,18093.84,Ana,alta demanda
+2026-05-24,Buenos Aires,Oriente,leche,46.96,litros,56000.1,Ana,baja produccion
+2026-05-25,El Porvenir,Occidente,leche,21.77,litros,8812.79,Valentina,normal
+2026-05-26,El Porvenir,Occidente,maiz,235.62,kilos,236847.24,Mateo,alta demanda
+2026-05-27,El Porvenir,Oriente,leche,30.57,litros,35830.35,Mateo,baja produccion
+2026-05-28,Monte Verde,Sur,leche,21.8,litros,9176.09,Carlos,sin novedad
+2026-05-29,La Rivera,Sur,yuca,123.15,kilos,100595.76,Carlos,normal
+2026-05-30,La Esperanza,Oriente,maiz,136.1,kilos,184786.84,Andres,baja produccion
+2026-05-31,Santa Clara,Sur,maiz,164.51,kilos,107855.58,Ana,normal
+2026-06-01,Monte Verde,Norte,leche,33.62,litros,18840.33,Carlos,transporte limitado
+2026-06-02,Monte Verde,Oriente,huevo,137.27,unidades,134490.34,Andres,baja produccion
+2026-06-03,La Rivera,Occidente,huevo,86.01,unidades,109225.02,Ana,lluvia
+2026-06-04,La Esperanza,Oriente,maiz,204.78,kilos,117501.83,Mateo,sin novedad
+2026-06-05,El Porvenir,Norte,maiz,152.06,kilos,54294.8,Ana,transporte limitado
+2026-06-06,La Esperanza,Norte,leche,23.27,litros,23570.21,Andres,normal
+2026-06-07,Monte Verde,Oriente,maiz,131.14,kilos,81975.46,Maria,baja produccion
+2026-06-08,Monte Verde,Norte,maiz,115.28,kilos,72035.94,Luis,sin novedad
+2026-06-09,Santa Clara,Oriente,huevo,131.68,unidades,92874.23,Carlos,alta demanda
+2026-04-01,Monte Verde,Norte,yuca,181.42,kilos,242779.84,Valentina,normal
+2026-04-02,Santa Clara,Oriente,maiz,223.08,kilos,166664.25,Andres,baja produccion
+2026-04-03,El Porvenir,Sur,maiz,245.78,kilos,237593.6,Sofia,transporte limitado
+2026-04-04,Monte Verde,Sur,leche,41.29,litros,19934.05,Mateo,sin novedad
+2026-04-05,El Progreso,Oriente,huevo,150.74,unidades,79259.88,Valentina,alta demanda
+2026-04-06,La Union,Occidente,maiz,137.93,kilos,148858.91,Mateo,transporte limitado
+2026-04-07,El Porvenir,Occidente,leche,25.67,litros,21169.64,Carlos,lluvia
+2026-04-08,La Rivera,Oriente,huevo,164.42,unidades,219052.47,Andres,baja produccion
+2026-04-09,El Progreso,Norte,maiz,215.29,kilos,192633.26,Carlos,alta demanda
+2026-04-10,Buenos Aires,Oriente,huevo,103.16,unidades,75914.16,Mateo,transporte limitado
+2026-04-11,El Porvenir,Norte,leche,24.64,litros,25320.62,Andres,transporte limitado
+2026-04-12,El Progreso,Sur,yuca,198.99,kilos,84554.06,Ana,transporte limitado
+2026-04-13,Monte Verde,Sur,yuca,97.5,kilos,112798.43,Sofia,sin novedad
+2026-04-14,Santa Clara,Occidente,yuca,61.28,kilos,74358.64,Valentina,baja produccion
+2026-04-15,La Esperanza,Sur,huevo,131.57,unidades,177496.26,Valentina,lluvia
+2026-04-16,Monte Verde,Occidente,huevo,72.72,unidades,67647.49,Mateo,transporte limitado
+2026-04-17,El Progreso,Sur,yuca,186.87,kilos,250223.84,Valentina,alta demanda
+2026-04-18,La Union,Occidente,leche,31.86,litros,15444.55,Ana,sin novedad
+2026-04-19,Buenos Aires,Oriente,yuca,93.82,kilos,106978.96,Sofia,baja produccion
+2026-04-20,La Esperanza,Occidente,leche,52.12,litros,70376.04,Andres,alta demanda
+2026-04-21,Monte Verde,Occidente,huevo,48.92,unidades,41509.43,Andres,sin novedad
+2026-04-22,La Rivera,Norte,leche,24.34,litros,13058.85,Mateo,lluvia
+2026-04-23,Monte Verde,Norte,leche,51.72,litros,29283.19,Sofia,alta demanda
+2026-04-24,La Esperanza,Occidente,yuca,137.78,kilos,172596.0,Valentina,lluvia
+2026-04-25,El Progreso,Sur,maiz,176.56,kilos,74543.83,Carlos,lluvia
+2026-04-26,La Rivera,Sur,huevo,154.51,unidades,79838.46,Sofia,baja produccion
+2026-04-27,La Union,Sur,yuca,90.26,kilos,73834.32,Valentina,baja produccion
+2026-04-28,Buenos Aires,Occidente,huevo,104.43,unidades,117395.53,Sofia,transporte limitado
+2026-04-29,La Rivera,Sur,huevo,125.82,unidades,67173.11,Carlos,baja produccion
+2026-04-30,El Porvenir,Occidente,huevo,93.85,unidades,101681.61,Luis,sin novedad
+2026-05-01,La Esperanza,Norte,maiz,239.4,kilos,305638.06,Sofia,sin novedad
+2026-05-02,Monte Verde,Norte,huevo,97.58,unidades,46574.17,Andres,normal
+2026-05-03,Buenos Aires,Norte,huevo,103.13,unidades,90895.46,Mateo,normal
+2026-05-04,La Union,Norte,huevo,88.11,unidades,48823.84,Ana,transporte limitado
+2026-05-05,El Progreso,Norte,maiz,138.88,kilos,119297.53,Luis,baja produccion
+2026-05-06,Monte Verde,Norte,huevo,59.64,unidades,73574.33,Maria,baja produccion
+2026-05-07,El Progreso,Norte,maiz,132.95,kilos,101094.11,Luis,sin novedad
+2026-05-08,La Rivera,Occidente,maiz,159.32,kilos,175273.17,Carlos,sin novedad
+2026-05-09,La Esperanza,Norte,leche,32.45,litros,13143.42,Ana,alta demanda
+2026-05-10,Monte Verde,Norte,maiz,147.44,kilos,65751.72,Valentina,normal
+2026-05-11,Buenos Aires,Sur,maiz,202.39,kilos,274578.97,Luis,sin novedad
+2026-05-12,Santa Clara,Sur,leche,33.38,litros,23148.98,Carlos,baja produccion
+2026-05-13,El Porvenir,Norte,huevo,56.91,unidades,41225.9,Maria,alta demanda
+2026-05-14,Buenos Aires,Oriente,leche,32.4,litros,13585.87,Sofia,normal
+2026-05-15,El Progreso,Sur,maiz,154.0,kilos,134681.44,Luis,transporte limitado
+2026-05-16,El Progreso,Oriente,yuca,207.21,kilos,220014.66,Maria,lluvia
+2026-05-17,Buenos Aires,Occidente,huevo,0,unidades,0.0,Mateo,baja produccion
+2026-05-18,Monte Verde,Sur,leche,26.61,litros,34369.97,Sofia,sin novedad
+2026-05-19,El Porvenir,Sur,maiz,191.56,kilos,142376.93,Sofia,lluvia
+2026-05-20,El Porvenir,Oriente,maiz,195.57,kilos,217390.5,Mateo,lluvia
+2026-05-21,La Rivera,Oriente,yuca,156.54,kilos,140403.31,Valentina,normal
+2026-05-22,Monte Verde,Sur,yuca,111.41,kilos,45319.1,Carlos,baja produccion
+2026-05-23,El Porvenir,Norte,yuca,87.53,kilos,36574.21,Mateo,lluvia
+2026-05-24,La Esperanza,Sur,maiz,248.89,kilos,132498.98,Carlos,baja produccion
+2026-05-25,El Progreso,Occidente,huevo,141.5,unidades,156747.68,Carlos,lluvia
+2026-05-26,Monte Verde,Occidente,yuca,102.8,kilos,104587.07,Sofia,normal
+2026-05-27,Buenos Aires,Sur,huevo,92.88,unidades,73731.13,Valentina,alta demanda
+2026-05-28,La Esperanza,Sur,huevo,99.84,unidades,129969.7,Sofia,baja produccion
+2026-05-29,Santa Clara,Norte,yuca,117.07,kilos,75789.6,Mateo,transporte limitado
+2026-05-30,Santa Clara,Occidente,huevo,67.4,unidades,23885.86,Andres,alta demanda
+2026-05-31,El Porvenir,Occidente,huevo,175.87,unidades,151956.72,Luis,normal
+2026-06-01,El Progreso,Oriente,huevo,170.5,unidades,196262.28,Sofia,baja produccion
+2026-06-02,La Union,Sur,yuca,164.47,kilos,217568.27,Carlos,alta demanda
+2026-06-03,La Esperanza,Oriente,yuca,154.64,kilos,167373.83,Maria,baja produccion
+2026-06-04,La Union,Norte,maiz,125.77,kilos,169709.91,Maria,normal
+2026-06-05,El Progreso,Occidente,huevo,95.67,unidades,123992.67,Carlos,lluvia
+2026-06-06,El Porvenir,Oriente,yuca,163.78,kilos,149017.1,Valentina,sin novedad
+2026-06-07,El Porvenir,Oriente,leche,22.04,litros,26170.53,Maria,sin novedad
+2026-06-08,Monte Verde,Norte,huevo,0,unidades,0.0,Mateo,normal
+2026-06-09,El Progreso,Sur,huevo,113.49,unidades,127074.11,Maria,transporte limitado
+2026-04-01,Santa Clara,Sur,maiz,115.64,kilos,155640.74,Mateo,lluvia
+2026-04-02,Monte Verde,Occidente,leche,45.75,litros,25230.17,Valentina,sin novedad
+2026-04-03,El Progreso,Oriente,maiz,94.37,kilos,45384.01,Luis,normal
+2026-04-04,Monte Verde,Norte,huevo,107.93,unidades,38852.85,Sofia,sin novedad
+2026-04-05,La Esperanza,Occidente,leche,25.81,litros,19214.23,Sofia,alta demanda
+2026-04-06,Buenos Aires,Sur,huevo,87.12,unidades,61875.35,Andres,transporte limitado
+2026-04-07,El Porvenir,Norte,huevo,125.51,unidades,158987.45,Luis,alta demanda
+2026-04-08,El Porvenir,Oriente,maiz,84.62,kilos,76763.95,Carlos,alta demanda
+2026-04-09,La Union,Norte,huevo,0,unidades,0.0,Andres,sin novedad
+2026-04-10,Buenos Aires,Occidente,leche,53.88,litros,57211.18,Carlos,alta demanda
+2026-04-11,El Progreso,Occidente,yuca,124.19,kilos,164848.16,Luis,transporte limitado
+2026-04-12,Monte Verde,Sur,maiz,236.57,kilos,277758.03,Ana,alta demanda
+2026-04-13,El Progreso,Sur,yuca,184.85,kilos,256309.42,Mateo,alta demanda
+2026-04-14,El Progreso,Norte,huevo,132.77,unidades,75974.03,Luis,alta demanda
+2026-04-15,La Esperanza,Sur,maiz,247.22,kilos,186073.67,Sofia,sin novedad
+2026-04-16,La Rivera,Norte,huevo,173.21,unidades,181654.02,Mateo,sin novedad
+2026-04-17,Buenos Aires,Occidente,maiz,247.72,kilos,242942.32,Andres,sin novedad
+2026-04-18,El Porvenir,Norte,huevo,153.18,unidades,72220.46,Luis,normal
+2026-04-19,Buenos Aires,Occidente,maiz,214.03,kilos,157552.59,Andres,baja produccion
+2026-04-20,La Esperanza,Oriente,yuca,69.28,kilos,85870.8,Valentina,transporte limitado
+2026-04-21,Santa Clara,Sur,maiz,0,kilos,0.0,Andres,transporte limitado
+2026-04-22,Monte Verde,Oriente,huevo,135.2,unidades,87550.45,Ana,transporte limitado
+2026-04-23,El Progreso,Occidente,yuca,209.53,kilos,178560.81,Carlos,transporte limitado
+2026-04-24,El Porvenir,Sur,leche,54.3,litros,66206.85,Carlos,sin novedad
+2026-04-25,La Esperanza,Norte,maiz,234.22,kilos,155535.4,Maria,baja produccion
+2026-04-26,El Porvenir,Occidente,yuca,123.37,kilos,88298.69,Valentina,normal
+2026-04-27,La Rivera,Norte,yuca,164.46,kilos,205421.2,Valentina,lluvia
+2026-04-28,Buenos Aires,Sur,leche,49.44,litros,41055.43,Maria,alta demanda
+2026-04-29,La Union,Norte,yuca,194.58,kilos,232440.67,Carlos,transporte limitado
+2026-04-30,El Progreso,Norte,maiz,147.78,kilos,157151.84,Maria,normal
+2026-05-01,Buenos Aires,Occidente,huevo,65.15,unidades,89860.78,Andres,lluvia
+2026-05-02,El Porvenir,Occidente,maiz,86.12,kilos,74326.49,Maria,sin novedad
+2026-05-03,El Progreso,Oriente,huevo,161.09,unidades,102932.78,Mateo,normal
+2026-05-04,El Progreso,Norte,leche,21.06,litros,22160.0,Carlos,baja produccion
+2026-05-05,La Union,Occidente,yuca,164.06,kilos,159552.12,Valentina,sin novedad
+2026-05-06,El Porvenir,Occidente,yuca,145.71,kilos,60713.45,Maria,sin novedad
+2026-05-07,La Esperanza,Norte,huevo,117.85,unidades,141750.7,Mateo,baja produccion
+2026-05-08,El Progreso,Norte,maiz,253.82,kilos,136985.99,Maria,baja produccion
+2026-05-09,La Union,Norte,yuca,78.46,kilos,44450.84,Maria,baja produccion
+2026-05-10,La Rivera,Occidente,leche,21.13,litros,14019.9,Maria,sin novedad
+2026-05-11,La Esperanza,Occidente,maiz,134.11,kilos,120084.14,Sofia,lluvia
+2026-05-12,La Union,Norte,yuca,138.4,kilos,99609.66,Carlos,sin novedad
+2026-05-13,La Esperanza,Sur,maiz,86.61,kilos,108166.31,Carlos,baja produccion
+2026-05-14,Monte Verde,Oriente,yuca,101.61,kilos,80588.49,Sofia,alta demanda
+2026-05-15,Santa Clara,Sur,huevo,103.85,unidades,110117.55,Maria,normal
+2026-05-16,La Rivera,Occidente,maiz,208.6,kilos,214891.31,Maria,lluvia
+2026-05-17,Buenos Aires,Norte,huevo,93.05,unidades,56748.64,Sofia,baja produccion
+2026-05-18,El Progreso,Oriente,huevo,49.23,unidades,35985.18,Andres,lluvia
+2026-05-19,Monte Verde,Norte,yuca,61.48,kilos,84056.2,Valentina,normal
+2026-05-20,Santa Clara,Oriente,yuca,148.32,kilos,66791.1,Andres,baja produccion
+2026-05-21,La Rivera,Sur,leche,51.17,litros,68764.08,Valentina,transporte limitado
+2026-05-22,El Porvenir,Sur,huevo,122.92,unidades,131646.25,Maria,lluvia
+2026-05-23,El Porvenir,Occidente,yuca,67.93,kilos,93283.16,Carlos,sin novedad
+2026-05-24,La Union,Oriente,maiz,159.01,kilos,133902.18,Sofia,alta demanda
+2026-05-25,Monte Verde,Norte,yuca,155.35,kilos,104231.24,Andres,sin novedad
+2026-05-26,El Progreso,Norte,leche,45.01,litros,23556.83,Ana,sin novedad
+2026-05-27,La Rivera,Occidente,huevo,0,unidades,0.0,Maria,alta demanda
+2026-05-28,El Progreso,Occidente,huevo,41.95,unidades,51303.48,Ana,sin novedad
+2026-05-29,Buenos Aires,Occidente,maiz,258.96,kilos,340916.15,Ana,lluvia
+2026-05-30,Monte Verde,Occidente,maiz,93.52,kilos,83173.76,Ana,alta demanda
+2026-05-31,El Porvenir,Norte,maiz,147.19,kilos,192781.72,Carlos,transporte limitado
+2026-06-01,La Rivera,Sur,huevo,81.1,unidades,91231.58,Valentina,transporte limitado
+2026-06-02,La Esperanza,Occidente,huevo,164.95,unidades,67690.79,Ana,transporte limitado
+2026-06-03,La Rivera,Oriente,yuca,76.07,kilos,84327.8,Valentina,normal
+2026-06-04,El Progreso,Occidente,huevo,108.89,unidades,96915.86,Maria,normal
+2026-06-05,La Union,Oriente,leche,23.76,litros,13956.62,Valentina,transporte limitado
+2026-06-06,Buenos Aires,Occidente,huevo,164.91,unidades,104380.73,Mateo,lluvia
+2026-06-07,Santa Clara,Norte,yuca,0,kilos,0.0,Carlos,lluvia
+2026-06-08,La Rivera,Sur,leche,22.95,litros,16013.92,Ana,sin novedad
+2026-06-09,Monte Verde,Occidente,huevo,174.36,unidades,82774.26,Mateo,sin novedad
+2026-04-01,Santa Clara,Sur,yuca,172.66,kilos,132925.72,Valentina,normal
+2026-04-02,El Progreso,Norte,leche,22.67,litros,8259.39,Carlos,sin novedad
+2026-04-03,Buenos Aires,Oriente,huevo,176.7,unidades,142428.14,Sofia,alta demanda
+2026-04-04,El Progreso,Oriente,huevo,74.68,unidades,66226.36,Carlos,normal
+2026-04-05,La Rivera,Sur,maiz,199.94,kilos,169466.64,Luis,lluvia
+2026-04-06,Santa Clara,Sur,maiz,101.68,kilos,64826.56,Carlos,alta demanda
+2026-04-07,La Esperanza,Sur,maiz,96.37,kilos,74943.29,Sofia,lluvia
+2026-04-08,Buenos Aires,Norte,huevo,107.09,unidades,109881.5,Sofia,transporte limitado
+2026-04-09,Buenos Aires,Sur,yuca,201.45,kilos,122746.92,Ana,normal
+2026-04-10,La Esperanza,Norte,leche,42.44,litros,27568.29,Sofia,alta demanda
+2026-04-11,Santa Clara,Norte,yuca,202.25,kilos,135421.45,Luis,sin novedad
+2026-04-12,Santa Clara,Sur,yuca,114.09,kilos,128930.67,Andres,sin novedad
+2026-04-13,La Rivera,Norte,maiz,185.18,kilos,85494.6,Luis,baja produccion
+2026-04-14,Monte Verde,Oriente,maiz,206.84,kilos,88656.5,Andres,sin novedad
+2026-04-15,La Union,Oriente,maiz,176.04,kilos,85242.71,Valentina,baja produccion
+2026-04-16,Buenos Aires,Occidente,yuca,127.27,kilos,166264.46,Luis,alta demanda
+2026-04-17,La Esperanza,Norte,maiz,187.85,kilos,91178.81,Ana,sin novedad
+2026-04-18,Monte Verde,Sur,huevo,109.3,unidades,97185.42,Luis,alta demanda
+2026-04-19,El Porvenir,Sur,huevo,96.12,unidades,52219.08,Maria,baja produccion
+2026-04-20,La Esperanza,Oriente,huevo,110.53,unidades,68724.94,Carlos,sin novedad
+2026-04-21,La Rivera,Sur,leche,24.33,litros,14601.1,Ana,transporte limitado
+2026-04-22,Santa Clara,Norte,yuca,191.01,kilos,263407.54,Carlos,normal
+2026-04-23,Buenos Aires,Sur,yuca,108.68,kilos,138913.22,Sofia,alta demanda
+2026-04-24,La Rivera,Sur,yuca,207.79,kilos,74997.35,Andres,sin novedad
+2026-04-25,La Rivera,Occidente,maiz,0,kilos,0.0,Luis,sin novedad
+2026-04-26,La Rivera,Sur,maiz,227.03,kilos,143535.9,Valentina,alta demanda
+2026-04-27,Monte Verde,Occidente,huevo,91.61,unidades,41075.69,Maria,lluvia
+2026-04-28,Santa Clara,Norte,maiz,182.54,kilos,98467.0,Sofia,transporte limitado
+2026-04-29,Santa Clara,Norte,maiz,227.15,kilos,124305.66,Maria,alta demanda
+2026-04-30,Monte Verde,Norte,huevo,167.28,unidades,76153.47,Maria,baja produccion
+2026-05-01,El Progreso,Sur,huevo,93.76,unidades,34150.17,Ana,lluvia
+2026-05-02,El Progreso,Norte,yuca,81.4,kilos,29643.58,Ana,baja produccion
+2026-05-03,Buenos Aires,Sur,leche,25.49,litros,23985.93,Mateo,transporte limitado
+2026-05-04,Buenos Aires,Norte,huevo,61.63,unidades,66353.52,Luis,normal
+2026-05-05,El Progreso,Sur,yuca,75.38,kilos,59252.37,Ana,normal
+2026-05-06,Monte Verde,Norte,huevo,93.95,unidades,61179.16,Valentina,alta demanda
+2026-05-07,Santa Clara,Oriente,leche,26.31,litros,16993.76,Luis,normal
+2026-05-08,Buenos Aires,Sur,leche,51.14,litros,27460.71,Andres,sin novedad
+2026-05-09,El Porvenir,Oriente,maiz,240.76,kilos,242203.64,Sofia,normal
+2026-05-10,La Rivera,Norte,huevo,132.64,unidades,159334.51,Luis,lluvia
+2026-05-11,Santa Clara,Norte,yuca,82.17,kilos,97510.59,Mateo,normal
+2026-05-12,El Porvenir,Oriente,yuca,81.7,kilos,39535.65,Valentina,transporte limitado
+2026-05-13,La Union,Sur,huevo,107.38,unidades,105428.93,Andres,sin novedad
+2026-05-14,Monte Verde,Occidente,huevo,98.61,unidades,89780.38,Carlos,normal
+2026-05-15,El Porvenir,Oriente,maiz,206.56,kilos,72917.62,Ana,baja produccion
+2026-05-16,La Union,Oriente,maiz,245.76,kilos,176164.43,Maria,alta demanda
+2026-05-17,Santa Clara,Norte,huevo,73.95,unidades,30220.33,Maria,sin novedad
+2026-05-18,Santa Clara,Norte,huevo,142.63,unidades,113525.52,Ana,sin novedad
+2026-05-19,El Progreso,Sur,huevo,157.24,unidades,60017.72,Andres,normal
+2026-05-20,Monte Verde,Occidente,leche,18.46,litros,14533.92,Maria,sin novedad
+2026-05-21,Santa Clara,Oriente,yuca,130.53,kilos,106534.97,Ana,normal
+2026-05-22,Santa Clara,Norte,leche,0,litros,0.0,Maria,alta demanda
+2026-05-23,El Porvenir,Sur,huevo,117.58,unidades,154630.37,Sofia,alta demanda
+2026-05-24,Santa Clara,Sur,yuca,205.97,kilos,283584.15,Maria,alta demanda
+2026-05-25,La Esperanza,Occidente,maiz,150.61,kilos,207056.63,Luis,alta demanda
+2026-05-26,Buenos Aires,Sur,huevo,155.82,unidades,185972.14,Valentina,transporte limitado
+2026-05-27,El Progreso,Sur,leche,20.88,litros,25869.06,Ana,transporte limitado
+2026-05-28,Santa Clara,Sur,leche,20.42,litros,23367.58,Sofia,baja produccion
+2026-05-29,Monte Verde,Occidente,leche,26.89,litros,25508.63,Ana,normal
+2026-05-30,La Esperanza,Occidente,yuca,73.98,kilos,102060.49,Sofia,baja produccion
+2026-05-31,Monte Verde,Oriente,yuca,172.78,kilos,237148.03,Luis,alta demanda
+2026-06-01,El Progreso,Oriente,maiz,84.26,kilos,71688.47,Ana,lluvia
+2026-06-02,Santa Clara,Sur,huevo,51.03,unidades,68913.93,Carlos,sin novedad
+2026-06-03,Santa Clara,Occidente,maiz,258.81,kilos,360235.78,Andres,lluvia
+2026-06-04,Buenos Aires,Sur,yuca,114.05,kilos,91519.03,Valentina,lluvia
+2026-06-05,El Progreso,Sur,maiz,182.04,kilos,82332.39,Ana,transporte limitado
+2026-06-06,El Progreso,Norte,huevo,53.18,unidades,70769.75,Maria,transporte limitado
+2026-06-07,Buenos Aires,Occidente,yuca,73.38,kilos,85160.24,Sofia,transporte limitado
+2026-06-08,La Union,Oriente,maiz,249.17,kilos,214951.97,Andres,alta demanda
+2026-06-09,El Porvenir,Oriente,maiz,159.35,kilos,160284.35,Andres,normal
+2026-04-01,El Porvenir,Sur,huevo,76.8,unidades,81921.28,Ana,sin novedad
+2026-04-02,La Esperanza,Norte,maiz,233.55,kilos,120538.91,Valentina,lluvia
+2026-04-03,El Porvenir,Norte,huevo,133.68,unidades,112546.95,Mateo,normal
+2026-04-04,Santa Clara,Occidente,leche,51.95,litros,60086.8,Carlos,transporte limitado
+2026-04-05,El Progreso,Norte,yuca,111.36,kilos,63839.01,Mateo,transporte limitado
+2026-04-06,La Union,Oriente,leche,38.17,litros,19191.47,Carlos,baja produccion
+2026-04-07,La Esperanza,Sur,huevo,48.74,unidades,57466.27,Mateo,normal
+2026-04-08,Monte Verde,Norte,leche,53.25,litros,33725.38,Maria,lluvia
+2026-04-09,El Progreso,Sur,yuca,120.76,kilos,132572.39,Valentina,sin novedad
+2026-04-10,La Rivera,Oriente,maiz,229.5,kilos,297598.12,Andres,lluvia
+2026-04-11,Monte Verde,Occidente,yuca,201.29,kilos,183633.16,Maria,transporte limitado
+2026-04-12,El Porvenir,Oriente,leche,38.75,litros,21641.41,Maria,sin novedad
+2026-04-13,Buenos Aires,Norte,leche,23.57,litros,11899.57,Andres,sin novedad
+2026-04-14,El Porvenir,Occidente,yuca,0,kilos,0.0,Maria,sin novedad
+2026-04-15,El Progreso,Occidente,leche,26.09,litros,20642.01,Maria,lluvia
+2026-04-16,Buenos Aires,Oriente,maiz,251.43,kilos,240286.18,Ana,transporte limitado
+2026-04-17,La Esperanza,Occidente,yuca,194.5,kilos,245292.91,Mateo,alta demanda
+2026-04-18,El Porvenir,Norte,yuca,112.83,kilos,101471.21,Andres,lluvia
+2026-04-19,La Union,Occidente,huevo,92.24,unidades,48037.67,Valentina,transporte limitado
+2026-04-20,El Porvenir,Norte,yuca,165.31,kilos,215097.55,Luis,normal
+2026-04-21,El Progreso,Occidente,leche,40.8,litros,35545.99,Luis,baja produccion
+2026-04-22,La Esperanza,Norte,yuca,187.76,kilos,218876.39,Valentina,lluvia
+2026-04-23,La Union,Norte,leche,30.97,litros,25926.36,Valentina,transporte limitado
+2026-04-24,Monte Verde,Sur,yuca,100.14,kilos,67370.84,Valentina,normal
+2026-04-25,El Porvenir,Oriente,leche,18.57,litros,13799.85,Andres,lluvia
+2026-04-26,El Porvenir,Norte,maiz,180.03,kilos,179504.55,Valentina,baja produccion
+2026-04-27,El Porvenir,Oriente,maiz,249.09,kilos,277615.37,Valentina,baja produccion
+2026-04-28,Santa Clara,Occidente,huevo,72.34,unidades,34914.67,Luis,sin novedad
+2026-04-29,La Rivera,Norte,maiz,250.77,kilos,112327.07,Valentina,sin novedad
+2026-04-30,Santa Clara,Norte,leche,40.87,litros,56033.58,Valentina,sin novedad
+2026-05-01,Santa Clara,Oriente,huevo,128.82,unidades,70320.64,Carlos,lluvia
+2026-05-02,Monte Verde,Norte,huevo,147.85,unidades,94433.73,Maria,sin novedad
+2026-05-03,El Progreso,Oriente,leche,34.99,litros,16180.44,Sofia,lluvia
+2026-05-04,El Progreso,Norte,leche,36.29,litros,44645.11,Valentina,alta demanda
+2026-05-05,La Esperanza,Occidente,huevo,50.3,unidades,21635.45,Valentina,transporte limitado
+2026-05-06,La Union,Norte,maiz,0,kilos,0.0,Ana,transporte limitado
+2026-05-07,Buenos Aires,Norte,huevo,179.29,unidades,63695.51,Sofia,lluvia
+2026-05-08,La Esperanza,Norte,leche,37.17,litros,21451.62,Andres,lluvia
+2026-05-09,La Esperanza,Oriente,yuca,80.78,kilos,86933.97,Maria,transporte limitado
+2026-05-10,La Union,Occidente,maiz,251.58,kilos,233735.93,Sofia,sin novedad
+2026-05-11,La Union,Sur,huevo,111.77,unidades,61776.06,Maria,sin novedad
+2026-05-12,La Rivera,Sur,huevo,54.41,unidades,52612.18,Maria,sin novedad
+2026-05-13,La Union,Norte,huevo,163.6,unidades,185593.28,Andres,baja produccion
+2026-05-14,El Porvenir,Occidente,huevo,67.96,unidades,87857.97,Luis,lluvia
+2026-05-15,La Esperanza,Occidente,yuca,148.03,kilos,180303.61,Andres,normal
+2026-05-16,El Progreso,Norte,maiz,225.63,kilos,123015.88,Carlos,lluvia
+2026-05-17,Buenos Aires,Oriente,yuca,81.76,kilos,29442.97,Ana,lluvia
+2026-05-18,La Union,Sur,yuca,194.81,kilos,147056.31,Carlos,normal
+2026-05-19,La Rivera,Oriente,leche,39.24,litros,41839.2,Valentina,transporte limitado
+2026-05-20,Monte Verde,Occidente,maiz,88.94,kilos,35498.75,Sofia,normal
+2026-05-21,El Progreso,Oriente,huevo,63.96,unidades,48097.95,Ana,normal
+2026-05-22,La Esperanza,Oriente,huevo,79.81,unidades,61689.25,Ana,sin novedad
+2026-05-23,La Esperanza,Oriente,leche,35.39,litros,27810.62,Sofia,transporte limitado
+2026-05-24,Buenos Aires,Occidente,huevo,51.17,unidades,44441.63,Ana,transporte limitado
+2026-05-25,La Union,Norte,huevo,158.81,unidades,75829.17,Andres,normal
+2026-05-26,Monte Verde,Sur,leche,48.54,litros,67626.77,Valentina,lluvia
+2026-05-27,El Progreso,Norte,maiz,210.34,kilos,253870.91,Ana,transporte limitado
+2026-05-28,La Esperanza,Oriente,leche,19.78,litros,12400.35,Valentina,sin novedad
+2026-05-29,Santa Clara,Occidente,maiz,185.02,kilos,126794.08,Maria,sin novedad
+2026-05-30,La Union,Oriente,leche,37.31,litros,31781.52,Mateo,transporte limitado
+2026-05-31,La Union,Sur,maiz,96.52,kilos,105877.66,Andres,sin novedad
+2026-06-01,Monte Verde,Occidente,leche,20.78,litros,11909.0,Carlos,alta demanda
+2026-06-02,Monte Verde,Oriente,huevo,54.63,unidades,52993.79,Andres,sin novedad
+2026-06-03,La Union,Occidente,maiz,232.61,kilos,113179.54,Andres,alta demanda
+2026-06-04,Monte Verde,Norte,huevo,66.31,unidades,34640.75,Sofia,lluvia
+2026-06-05,La Union,Oriente,leche,45.57,litros,58730.75,Maria,normal
+2026-06-06,La Union,Occidente,huevo,89.27,unidades,82826.44,Andres,lluvia
+2026-06-07,Santa Clara,Oriente,huevo,110.31,unidades,44765.44,Sofia,normal
+2026-06-08,La Esperanza,Sur,huevo,142.48,unidades,93852.46,Valentina,baja produccion
+2026-06-09,La Rivera,Norte,huevo,112.61,unidades,45310.33,Carlos,lluvia

@@ -1,0 +1,16 @@
+Semana 15: Artefacto del entorno - Mini-solución colaborativa con comunicación visual
+
+En esta actividad, el estudiante o equipo deberá entregar un proyecto ejecutable en formato ZIP. El proyecto debe leer datos de producción rural desde un CSV, generar un reporte de resultados, crear un recurso visual y documentar el proceso mediante README, bitácora, evidencias de pruebas y roles del equipo.
+
+El ZIP base contiene errores intencionales que deben ser identificados, corregidos y documentados.
+
+Evidencia de entrega:
+- archivo ZIP del proyecto corregido;
+- README breve;
+- reporte generado;
+- gráfico o recurso visual;
+- evidencias de pruebas;
+- bitácora de errores y ajustes;
+- registro de roles.
+
+Criterios técnicos: producto ejecutable, organización de archivos, evidencia de pruebas, coherencia con el problema contextual y comunicación clara de resultados.
