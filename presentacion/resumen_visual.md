@@ -4,32 +4,28 @@ Este archivo funciona como base para una diapositiva, infografía o exposición 
 
 ## 1. Título del reto
 
+Análisis de producción de fincas y comunicación visual.
 
 ## 2. Problema contextual
 
-¿Qué necesitaba resolver la comunidad?
-
+La comunidad necesitaba entender la producción de fincas desde datos en un CSV.
 
 ## 3. Solución creada
 
-¿Qué hace el proyecto?
-
+El proyecto lee los datos, genera un reporte de resultados y crea un gráfico.
 
 ## 4. Resultado más importante
 
-¿Qué mostró el reporte?
-
+El reporte muestra cuánto produce cada producto y cada finca.
 
 ## 5. Recurso visual usado
 
-¿Qué gráfico, tabla o captura utilizaron y por qué?
-
+Se usó un gráfico de barras para mostrar producción total por producto.
 
 ## 6. Interpretación del recurso visual
 
-¿Qué se puede entender gracias al recurso visual?
-
+El gráfico permite ver rápido qué producto tiene más producción.
 
 ## 7. Conclusión técnica
 
-¿Qué aprendió el equipo sobre comunicación de resultados?
+Observé que el reporte y el gráfico ayudan a comunicar resultados con claridad

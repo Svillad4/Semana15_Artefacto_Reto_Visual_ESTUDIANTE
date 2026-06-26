@@ -19,7 +19,7 @@ def cargar_datos():
     """Carga el archivo CSV del proyecto."""
     # ERROR INTENCIONAL 1:
     # La ruta usa una variable mal escrita. Revise el nombre correcto definido arriba.
-    df = pd.read_csv(DATAFILE)
+    df = pd.read_csv(DATA_FILE)
     return df
 
 
@@ -27,11 +27,11 @@ def calcular_resumen(df):
     """Calcula indicadores principales para comunicar resultados."""
     # ERROR INTENCIONAL 2:
     # La columna 'cantidad_total' no existe en el CSV. Explore las columnas reales.
-    total_por_producto = df.groupby("producto")["cantidad_total"].sum().sort_values(ascending=False)
+    total_por_producto = df.groupby("producto")["cantidad"].sum().sort_values(ascending=False)
 
     # ERROR INTENCIONAL 3:
     # La columna 'fincas' no existe. Revise si el nombre correcto está en singular o plural.
-    total_por_finca = df.groupby("fincas")["cantidad"].sum().sort_values(ascending=False)
+    total_por_finca = df.groupby("finca")["cantidad"].sum().sort_values(ascending=False)
 
     promedio_por_zona = df.groupby("zona")["cantidad"].mean().sort_values(ascending=False)
 
@@ -61,6 +61,7 @@ def construir_reporte(total_por_producto, total_por_finca, promedio_por_zona):
 
     # ERROR INTENCIONAL 4:
     # Falta retornar el texto final. Revise que debe devolver la funcion.
+    return "\n".join(lineas)
 
 
 def guardar_reporte(reporte):

@@ -18,7 +18,7 @@ def main():
 
     # ERROR INTENCIONAL 1:
     # La columna 'cantidades' no existe. Debe revisar el nombre real de la columna numerica.
-    resumen = df.groupby("producto")["cantidades"].sum().sort_values(ascending=False)
+    resumen = df.groupby("producto")["cantidad"].sum().sort_values(ascending=False)
 
     OUTPUT_DIR.mkdir(exist_ok=True)
 
@@ -31,7 +31,7 @@ def main():
 
     # ERROR INTENCIONAL 2:
     # La variable GRAPH_PATH no existe. Revise el nombre correcto definido arriba.
-    plt.savefig(GRAPH_PATH)
+    plt.savefig(GRAPH_FILE)
     print("Grafico generado en:", GRAPH_FILE)
 
 

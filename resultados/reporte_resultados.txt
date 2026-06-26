@@ -1,0 +1,36 @@
+REPORTE DE RESULTADOS - SEMANA 15
+Reto colaborativo y comunicacion visual
+=======================================================
+
+1. Total producido por producto
+producto
+maiz     47962.50
+yuca     41143.66
+huevo    38412.56
+leche    10997.13
+Name: cantidad, dtype: float64
+
+2. Total producido por finca
+finca
+El Progreso     18641.33
+Buenos Aires    17842.17
+La Rivera       17469.41
+Santa Clara     17259.59
+Monte Verde     17143.86
+La Union        16875.68
+La Esperanza    16797.51
+El Porvenir     16486.30
+Name: cantidad, dtype: float64
+
+3. Promedio de cantidad por zona
+zona
+Norte        115.097234
+Oriente      112.550318
+Sur          108.319309
+Occidente    103.447252
+Name: cantidad, dtype: float64
+
+4. Interpretacion para la presentacion
+El equipo debe explicar que producto o finca obtuvo mayor produccion,
+que grafico ayuda a comunicar mejor el resultado y que decision podria
+tomar la comunidad con base en estos datos.

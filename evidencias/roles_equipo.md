@@ -4,23 +4,21 @@ Completa esta tabla. Si trabajas individualmente, escribe tu nombre en todos los
 
 | Rol | Integrante | Aporte realizado |
 |---|---|---|
-| Coordinador/a |  |  |
-| Programador/a |  |  |
-| Tester o verificador/a |  |  |
-| Documentador/a |  |  |
-| Diseñador/a visual |  |  |
-| Vocero/a |  |  |
+| Coordinador/a | Santiago Villada | Planificó y revisó el proceso. |
+| Programador/a | Santiago Villada | Corrigió el código y escribió soluciones. |
+| Tester o verificador/a | Santiago Villada | Ejecutó los scripts y validó los resultados. |
+| Documentador/a | Santiago Villada | Completó la bitácora, pruebas y resumen. |
+| Diseñador/a visual | Santiago Villada | Preparó el resumen visual y describió el gráfico. |
+| Vocero/a | Santiago Villada | Explicó el proyecto y comunicó el resultado. |
 
 ## Acuerdos del equipo
 
-¿Qué acuerdos tomaron para trabajar?
-
+Entendí el reto y trabajé de forma ordenada.
 
 ## Dificultades de colaboración
 
-¿Qué dificultad apareció y cómo la resolvieron?
-
+Identifiqué errores de nombres y los corregí con mensajes de error.
 
 ## Aprendizaje del trabajo colaborativo
 
-¿Qué aprendieron sobre trabajar en equipo para resolver un reto técnico?
+Aprendí a corregir errores leyendo el mensaje y usando el CSV real.
